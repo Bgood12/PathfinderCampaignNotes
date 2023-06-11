@@ -7,15 +7,15 @@ Aris is a half-elven woman with a trim athletic build. She has short black hair,
 Strong desire to captain her own ship
 - Doesn't care what kind
 - Has had a hard time breaking into the field
-Mocks or assaults flirtatious overatures
+Mocks or assaults flirtatious overtures
 Dulls anger and frustrations with alcohol
 
 
 
 ## Backstory
-Bounty Hunter
+Works as a bounty hunter. [[Siaku Dolrino]] is her most recent bounty.
 
-
+Spent most of the voyage in a self imposed isolation in her own cabin. When she wasn't passed out she was half drunk and working on her secret passion; poetry.
 
 
 

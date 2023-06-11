@@ -1,1 +1,1 @@
-Former colony of Fascist Fantasy Iberia TM.
+Former colony of [[Fascist Fantasy Iberia]] .
