@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md"
               }
             }
           },
@@ -158,20 +158,22 @@
   },
   "active": "29e02467a3afba4c",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
-    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Act 1 - Talking to Coconuts/Castaways/Ishirou.md",
     "Act 1 - Talking to Coconuts/Castaways/Geck Dildriast.md",
+    "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
+    "the first mate.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations",
     "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
-    "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
     "World Building/Organizations/Ekeko Consortium.md",
     "World Building/Organizations/Crimson Scorpions.md",
     "World Building/Organizations",
     "World Building/Countries/Pirate Confederacy.md",
     "World Building/Countries/Fascist Fantasy Iberia.md",
-    "Act 1 - Talking to Coconuts/Castaways/Ishirou.md",
     "Act 1 - Talking to Coconuts/Characters.md",
     "World Building/Countries/Balaika.md",
     "Act 1 - Talking to Coconuts/Castaways/Aris Ramondo.md",
@@ -191,8 +193,6 @@
     "token_1(3).png",
     "Test/Reference Note.md",
     "Cast/Sara's Character.md",
-    "Cast/Jared's Character.md",
-    "Cast/Hannah's Character.md",
     "Cast",
     "Test",
     "Untitled.canvas"
