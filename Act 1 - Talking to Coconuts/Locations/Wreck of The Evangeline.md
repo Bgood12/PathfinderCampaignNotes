@@ -19,7 +19,7 @@ Most everything in the captains cabin has escaped trough a hole in the ship, luc
 Desk contents
 - Top drawer
 	- A keyring with several keys (lower drawer, [[Siaku Dolrino]]'s manacles)
-	- A log book
+	- [[Captain's Log Book]]
 - Middle drawer 
 	- Several sea charts
 		- One shows the ship's route
