@@ -1,4 +1,4 @@
-The party was poisoned during dinner on [[The Evangeline]] the night prior. *Roll Fortitude saving throws to determine the order the party awakens*. The character with the best save will awaken slowly with a numbing sensation and slowly subceeding darkness before a sharp prick to their foot jolts them awake. This prick comes from a hungry eurypterid. *This deal 1 damage*. 
+The party was poisoned during dinner on [[The Evangeline]] the night prior. *Roll Fortitude saving throws to determine the order the party awakens*. The character with the best save will awaken slowly with a numbing sensation and slowly subceeding darkness before a sharp prick to their foot jolts them awake. This prick comes from a hungry eurypterid. *This deals 1 damage*. 
 
 The other party members along with the other five castaways are beginning to stir on the beach. The other party members naturally awaken at a rate of one per round unless they take damage or they are awakened some other way.
 <br>

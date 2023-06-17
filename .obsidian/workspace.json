@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md"
               }
             }
           },
@@ -158,17 +158,20 @@
   },
   "active": "29e02467a3afba4c",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
+    "Act 1 - Talking to Coconuts/Castaways/Aris Ramondo.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
-    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
     "Act 1 - Talking to Coconuts/Castaways/Ishirou.md",
     "Act 1 - Talking to Coconuts/Castaways/Geck Dildriast.md",
     "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/the first mate.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/The Evangeline.md",
     "Act 1 - Talking to Coconuts/Castaway Status.md",
     "Act 1 - Talking to Coconuts/Locations",
@@ -180,7 +183,6 @@
     "World Building/Countries/Fascist Fantasy Iberia.md",
     "Act 1 - Talking to Coconuts/Characters.md",
     "World Building/Countries/Balaika.md",
-    "Act 1 - Talking to Coconuts/Castaways/Aris Ramondo.md",
     "Remote/Test.md",
     "Remote",
     "World Building.md",
@@ -190,10 +192,8 @@
     "Templates",
     "Act 1 - Talking to Coconuts/Castaways/Untitled 2.md",
     "Test/Markdown.md",
-    "Act 1 - Talking to Coconuts/Castaways/Untitled 1.md",
     "Act 1 - Talking to Coconuts/Castaways/Untitled",
     "Act 1 - Talking to Coconuts/Castaways",
-    "Test/Test Note2.md",
     "token_1(3).png",
     "Untitled.canvas"
   ]

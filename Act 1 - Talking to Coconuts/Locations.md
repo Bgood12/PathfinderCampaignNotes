@@ -1,6 +1,6 @@
 A: [[Castaway Beach]]
 B: [[Wreck of The Evangeline]]
-C: Prick Berries
+C: [[Prick Berries]]
 D: Siaku's quest ship (Temp Name)
 E: Treasure Pit
 F: Capt's Landfall

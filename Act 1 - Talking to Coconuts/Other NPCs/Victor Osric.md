@@ -1,0 +1,1 @@
+Victor Osric is the first mate aboard [[The Evangeline]].

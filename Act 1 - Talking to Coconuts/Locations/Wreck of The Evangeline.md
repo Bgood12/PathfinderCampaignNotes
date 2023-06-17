@@ -1,4 +1,4 @@
-Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where [[the first mate]] died.
+Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where [[Victor Osric]] died.
 
 #### Description 
 The stern of the ship is all that has survived of [[The Evangeline]]. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
@@ -23,7 +23,7 @@ Desk contents
 - Middle drawer 
 	- Several sea charts
 		- One shows the ship's route
-		- One marks the island as "Cannable Island" with a note of danger
+		- One marks the island as "[[Cannibal Island]]" with a note of danger
 - Bottom drawer (locked - see keys in top drawer)
 	- 50gp bottle of fine brandy
 	- 100gp model of [[The Evangeline]] in a bottle
@@ -43,7 +43,7 @@ Small Footlocker stuck under desk (locked - see keys in top drawer)
 The cook's dead body is found hidden here; along with 24 rations worth of foodstuffs.
 ##### Supply Room
 The room that the eurypterid was attempting to access has a trickle of blood coming from under the door.
-[[the first mate]]
+[[Victor Osric]]
 - Has two sets of wounds (Detectable with a DC 15 Medicine check)
 	- The first set caused by a rapier
 	- The second caused by the eurypterid's stinger
