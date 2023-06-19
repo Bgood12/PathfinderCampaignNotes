@@ -1,4 +1,4 @@
-Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where [[Victor Osric]] died.
+Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
 
 #### Description 
 The stern of the ship is all that has survived of [[The Evangeline]]. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
