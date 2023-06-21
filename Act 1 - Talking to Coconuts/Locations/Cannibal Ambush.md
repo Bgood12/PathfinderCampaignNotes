@@ -5,3 +5,5 @@ DC 10 Athletics (Climb - Action) to scale either cliff.
 There is a [[Snare Trap]] in the gulch. The cannibal can manually activate it from his position 50 ft up the west cliff if someone attempt to disarm it. The trap drags a snared creature 25 feet up the wall of the gulch.
 
 As an action the cannibal can pull a snared creature 5 feet up the side of the gulch.
+
+Use cultist statblock for cannibals: https://2e.aonprd.com/NPCs.aspx?ID=927

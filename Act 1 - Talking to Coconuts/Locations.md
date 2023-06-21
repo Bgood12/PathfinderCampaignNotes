@@ -13,7 +13,7 @@ L: Grey Island
 M: Fungal Ship
 N: Fungal Captain
 O: [[Cannibal Ambush]]
-P: Cannibal's Original Captains House
+P: [[Captain Parrish's Hut]]
 Q: Pearl Bed
 R: Predator Dens
 S: Shipwrecks
