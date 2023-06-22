@@ -14,10 +14,10 @@ M: Fungal Ship
 N: Fungal Captain
 O: [[Cannibal Ambush]]
 P: [[Captain Parrish's Hut]]
-Q: Pearl Bed
+Q: [[Pearl Bed]]
 R: Predator Dens
 S: Shipwrecks
-T: Snare Traps
+T: [[Snare Trap]]
 U: Dryad Tree
 V: Camp Cannibal
 W: Rickety Rope Bridge
