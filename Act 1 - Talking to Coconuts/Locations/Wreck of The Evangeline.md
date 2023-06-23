@@ -25,9 +25,9 @@ Desk contents
 		- One shows the ship's route
 		- One marks the island as "[[Cannibal Island]]" with a note of danger
 - Bottom drawer (locked - see keys in top drawer)
-	- 50gp bottle of fine brandy
-	- 100gp model of [[The Evangeline]] in a bottle
-	- 350 gp
+	- 5gp bottle of fine brandy
+	- 10gp model of [[The Evangeline]] in a bottle
+	- 35 gp
 	- Leather Satchel containing
 		- 4 Minor Healing Potions https://2e.aonprd.com/Equipment.aspx?ID=186
 		- 1 Lesser Healing Potion https://2e.aonprd.com/Equipment.aspx?ID=186

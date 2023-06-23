@@ -23,10 +23,10 @@ Lacedon stats: https://2e.aonprd.com/Monsters.aspx?ID=1865
 
 #### Treasure
 At the other end of the 'J' shaped shaft lies a waterproof and airtight chest (DC 30 thievery to open with tools). Finding and sharing this treasure with [[Ishirou]] completes his loyalty quest.
-- 2000 sp
-- 500 gp
-- 50 pp
-- Silk pouch containing 500 gp worth of garnet and amethyst
-- Bejeweled cold-iron (low-grade) starknife (+1 potency rune) worth 650 gp
+- 200 sp
+- 50 gp
+- 5 pp
+- Silk pouch containing 50gp worth of garnet and amethyst
+- Bejeweled cold-iron (low-grade) starknife (+1 potency rune) worth 75 gp
 - Silver buckler (low-grade)
 - Scroll of Raise Dead - https://2e.aonprd.com/Spells.aspx?ID=243
