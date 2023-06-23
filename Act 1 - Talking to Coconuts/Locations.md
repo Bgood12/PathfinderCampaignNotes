@@ -2,7 +2,7 @@ A: [[Castaway Beach]]
 B: [[Wreck of The Evangeline]]
 C: [[Prick Berries]]
 D: Siaku's quest ship (Temp Name)
-E: Treasure Pit
+E: [[Treasure Pit]]
 F: [[Captain's Landfall]]
 G: [[Former Campsites]]
 H: Crab Kenku
@@ -20,7 +20,7 @@ S: Shipwrecks
 T: [[Snare Trap]]
 U: Dryad Tree
 V: Camp Cannibal
-W: Rickety Rope Bridge
+W: [[Rickety Rope Bridge]]
 X: Tide Stones
 Y: Pirate Queens's Temple
-Z: Mountain Peak
+Z: [[Mountain Peak]]
