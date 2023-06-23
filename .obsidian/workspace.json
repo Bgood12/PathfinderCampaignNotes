@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasure Pit.md",
-                "mode": "source",
+                "file": "Cast/Mayak.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasure Pit.md",
+                "file": "Cast/Mayak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Treasure Pit.md",
+                "file": "Cast/Mayak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treasure Pit.md"
+                "file": "Cast/Mayak.md"
               }
             }
           },
