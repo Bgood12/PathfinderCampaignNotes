@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e77e0f617563e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md"
               }
             }
           },
@@ -158,33 +171,33 @@
   },
   "active": "29e02467a3afba4c",
   "lastOpenFiles": [
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Cast/Mayak.md",
+    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
+    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
+    "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
+    "Act 1 - Talking to Coconuts/Locations/Snare Trap.md",
+    "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
+    "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
     "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+    "Act 1 - Talking to Coconuts/Other NPCs",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Turmoil.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
     "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
-    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
-    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
-    "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
-    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
-    "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "Act 1 - Talking to Coconuts/Locations/Snare Trap.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
-    "Cast/Mayak.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Turmoil.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
-    "Act 1 - Talking to Coconuts/Castaways/Aris Ramondo.md",
-    "Act 1 - Talking to Coconuts/Other NPCs",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries",
-    "Act 1 - Talking to Coconuts/Castaways/Ishirou.md",
     "Act 1 - Talking to Coconuts/Castaways/Geck Dildriast.md",
-    "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/The Evangeline.md",
-    "Act 1 - Talking to Coconuts/Castaway Status.md",
     "Act 1 - Talking to Coconuts/Locations",
     "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
     "World Building/Organizations",
