@@ -1,4 +1,4 @@
-Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
+![[Ship.png]]Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
 
 #### Description 
 The stern of the ship is all that has survived of [[The Evangeline]]. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
@@ -53,4 +53,6 @@ The room that the eurypterid was attempting to access has a trickle of blood com
 There are also various supplies.
 - Timber, wood, nails, hammers, rope, shovels, block & tackle, 5 large canvas sheets, 2 fishing nets, 2 bullseye lanterns, 12 flasks of oil, 200 ft rope
 
-
+<br><br>
+Use the stern of this map for elite eurypterid encounter
+![[Ship.png]]

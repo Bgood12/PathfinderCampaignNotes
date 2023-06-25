@@ -16,3 +16,4 @@ The parties gear is stacked somewhat haphazardly in a 10x10 area of the beach.
 - Characters are assumed to be wearing any armor that they have.
 - It takes an action to recover a piece of gear from this pile. This triggers opportunity attacks.
 
+![[CastawayBeachBattleMap.png]]
