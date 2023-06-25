@@ -18,7 +18,7 @@ Q: [[Pearl Bed]]
 R: Predator Dens
 S: Shipwrecks
 T: [[Snare Trap]]
-U: Dryad Tree
+U: [[Dryad Grove]]
 V: Camp Cannibal
 W: [[Rickety Rope Bridge]]
 X: Tide Stones
