@@ -6,12 +6,12 @@ E: [[Treasure Pit]]
 F: [[Captain's Landfall]]
 G: [[Former Campsites]]
 H: Crab Kenku
-I: Causeway
-J: Causeway
+I: [[Causeway]]
+J: 
 K: **Let's see if anyone notices that this isn't a label**
-L: Grey Island
-M: Fungal Ship
-N: Fungal Captain
+L: [[Fungus Island]]
+M: [[The Dark Tentacle]]
+N: 
 O: [[Cannibal Ambush]]
 P: [[Captain Parrish's Hut]]
 Q: [[Pearl Bed]]
