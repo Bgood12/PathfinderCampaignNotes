@@ -15,8 +15,8 @@ N:
 O: [[Cannibal Ambush]]
 P: [[Captain Parrish's Hut]]
 Q: [[Pearl Bed]]
-R: Predator Dens
-S: Shipwrecks
+R: [[Predator Dens]]
+S: [[Shipwrecks]]
 T: [[Snare Trap]]
 U: [[Dryad Grove]]
 V: Camp Cannibal
