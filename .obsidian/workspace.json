@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1d4f67ea83138f",
+        "id": "b42a1288b0b328ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7986ea04681e809e",
+            "id": "29e02467a3afba4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7482fce49ad6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e85215612a36e707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Fungus Island.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md"
               }
             }
           },
@@ -156,51 +183,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7986ea04681e809e",
+  "active": "8c7482fce49ad6a2",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
-    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
-    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
-    "Cast/Mayak.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Turmoil.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
-    "Act 1 - Talking to Coconuts/Locations/Causeway.md",
+    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "Maps/CampCannibalMarkup.jpeg",
+    "Maps/CampCannibal.jpeg",
+    "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
+    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+    "World Building/Organizations/Ekeko Consortium.md",
+    "World Building/Organizations/Crimson Scorpions.md",
+    "Maps/Ship.png",
+    "Maps/JungleTrailAndStream.jpg",
+    "Maps/CastawayBeachBattleMap.png",
+    "Maps/JungleLegde.jpg",
+    "Maps/Campsite.png",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
+    "Maps/StoneHenge.png",
+    "Maps",
     "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
     "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
     "Act 1 - Talking to Coconuts/Locations/Dryad Grove.md",
-    "Maps/JungleLegde.jpg",
-    "Maps/Campsite.png",
-    "Maps/Campsite.png.crdownload",
-    "Maps/JungleTrailAndStream.jpg",
-    "Maps/JungleTrailAndStream.jpg.crdownload",
-    "Act 1 - Talking to Coconuts/Castaway Status.md",
-    "Maps/JungleLegde.jpg.crdownload",
-    "Maps/JungleLedge",
-    "Maps/Unconfirmed 651558.crdownload",
-    "Maps/JungleTrailAndStream",
-    "Maps/Unconfirmed 978872.crdownload",
-    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "Maps/Ship.png",
-    "Maps/Ship.png.crdownload",
-    "Act 1 - Talking to Coconuts/Locations/Snare Trap.md",
-    "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
-    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
-    "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
-    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
-    "Maps/CastawayBeachBattleMap.png",
-    "Maps/StoneHenge.png",
-    "Maps/StoneHenge.png.crdownload",
-    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+    "Act 1 - Talking to Coconuts/Locations/Causeway.md",
+    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
-    "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
-    "Pasted image 20230625180657.png.md",
-    "Maps/Pasted image 20230625180657.png",
-    "Maps",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
+    "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
+    "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Other NPCs",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries",
+    "Act 1 - Talking to Coconuts/Locations",
+    "World Building/Organizations",
+    "Remote",
+    "World Building/Countries",
+    "World Building",
+    "Templates",
+    "Act 1 - Talking to Coconuts/Castaways/Untitled",
     "token_1(3).png",
     "Untitled.canvas"
   ]
