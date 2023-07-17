@@ -41,5 +41,5 @@ A 20 foot stairwell leads to this room which takes the entire floor. [[Rubrack t
 - Use the cultist statblock for the consorts: https://2e.aonprd.com/NPCs.aspx?ID=927
 - The Payroll contains 440 sp and 15 gp
 
-Area 12: Balcony
+Area 13: Balcony
 This balcony has a view of the sea as well as the entirety of the camp. It is a 20 foot drop into the camp below.
