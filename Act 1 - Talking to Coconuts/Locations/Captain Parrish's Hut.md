@@ -8,11 +8,11 @@ A DC 15 medicine check can determine that the bones have marks from both teeth a
 A DC 15 perception check notices a notebook tucked into a niche in a wall. Though the book was once good quality the years have not been kind to its condition.
 
 There are shreds of entries remaining.
-- Notes that [[ship's Priestess]] is effective at warding off sickness.
+- Notes that [[Nelizia]] is effective at warding off sickness.
 - ...fine hunting on this isle...
-- [[ship's Priestess]] has turned the crew against me...
+- [[Nelizia]] has turned the crew against me...
 - SOMETHING TO SPARK INTEREST IN OPTIONAL AREAS OF THE ISLAND
-- The crew has been wandering around lately... been nearly a decade. Who knows what kind of beliefs [[ship's Priestess]] has been able to instill.
+- The crew has been wandering around lately... been nearly a decade. Who knows what kind of beliefs [[Nelizia]] has been able to instill.
 - ... threw a still alive man in a boiling pot...
 - They offered me immortality but I know the corruption it requires
 

@@ -11,15 +11,15 @@ J:
 K: **Let's see if anyone notices that this isn't a label**
 L: [[Fungus Island]]
 M: [[The Dark Tentacle]]
-N: 
-O: [[Cannibal Ambush]]
-P: [[Captain Parrish's Hut]]
-Q: [[Pearl Bed]]
+N: [[Cannibal Ambush]]
+O: [[Captain Parrish's Hut]]
+P: [[Pearl Bed]]
+Q: [[Dryad Grove]]
 R: [[Predator Dens]]
 S: [[Shipwrecks]]
 T: [[Snare Trap]]
-U: [[Dryad Grove]]
-V: Camp Cannibal
+U: [[Camp Cannibal]]
+V: [[Caves of the Mother]]
 W: [[Rickety Rope Bridge]]
 X: Tide Stones
 Y: Pirate Queens's Temple

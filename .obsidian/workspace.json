@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +34,104 @@
             }
           },
           {
+            "id": "5073fc9ab1506b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d4b92b7a26fbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0e25087f8730fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab71bb044bd030f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c1d3b1b2f3521de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b3dfb2cc80267b0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Maps/CavesOfTheMother.jpg"
+              }
+            }
+          },
+          {
+            "id": "277b2a31e6ffaad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Countries/Fascist Fantasy Iberia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07bf458e263e6872",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Maps/CampCannibalMarkup.jpeg"
+              }
+            }
+          },
+          {
             "id": "e85215612a36e707",
             "type": "leaf",
             "state": {
@@ -47,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md"
               }
             }
           },
@@ -183,18 +281,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c7482fce49ad6a2",
+  "active": "5073fc9ab1506b46",
   "lastOpenFiles": [
-    "Maps/CampCannibalMarkup.jpeg",
-    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
-    "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
+    "Maps/CavesOfTheMother.jpg",
+    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "Maps/CampCannibalMarkup.jpeg",
     "Maps/CampCannibal.jpeg",
+    "World Building/Countries/Fascist Fantasy Iberia.md",
+    "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
     "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
     "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "World Building/Organizations/Ekeko Consortium.md",
     "World Building/Organizations/Crimson Scorpions.md",
     "Maps/Ship.png",
@@ -202,7 +308,6 @@
     "Maps/CastawayBeachBattleMap.png",
     "Maps/JungleLegde.jpg",
     "Maps/Campsite.png",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
     "Maps/StoneHenge.png",
     "Maps",
@@ -211,14 +316,9 @@
     "Act 1 - Talking to Coconuts/Locations/Dryad Grove.md",
     "Act 1 - Talking to Coconuts/Locations/Causeway.md",
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
     "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
-    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
-    "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
-    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
-    "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
     "Act 1 - Talking to Coconuts/Locations",

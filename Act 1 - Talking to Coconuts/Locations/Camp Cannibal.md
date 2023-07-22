@@ -1,4 +1,9 @@
-There are a few huts here made out of wood with roofs made of palm fronds.
+#### Maps
+- [[CampCannibal.jpeg]]
+- [[CampCannibalMarkup.jpeg]]
+<br>
+
+There are a few huts here made out of wood with roofs made of palm fronds. The tree stump in front of the main structure is a wooden grate with a rope coil next to it.
 
 Area 1: Outside the Camp
 Outside the gate is a chained up monitor lizard. This creature is intended to ward off intruders as well as alert the camp to their presence.
@@ -36,7 +41,7 @@ Area 11: Shrine to [[Kasa]]
 This room has several articles of paraphernalia salvaged from the wreck of The Voyager (S17). The centerpiece is the masthead that was taken from the ship shortly after its wreck. A DC20 Society check reveals that these items date back to the earliest days of House [[Kasa]]'s rule over [[Fascist Fantasy Iberia]].
 
 Area 12: Rubrack's Den
-A 20 foot stairwell leads to this room which takes the entire floor. [[Rubrack the Red]] along with his four consorts can be found here at any time of the day. The room is decorated with dilapidated furniture taken from The Voyager's wreck (S17). A dented footlocker against one wall contains the ship's payroll, kept more out of nostalgia than anything else.
+A 20 foot stairwell leads to this room which takes the entire floor. [[Rubrack the Red]] along with his four consorts can be found here at any time of the day. The room is decorated with dilapidated furniture taken from The Voyager's wreck (S17). A dented footlocker against one wall contains the ship's payroll, kept more out of nostalgia than anything else. If [[Irena]] has already left she will have traded her minion in [[Captain Oakley]] for Rubrack depositing Oakley in the caves beneath the camp.
 - Use the minotaur statblock for Rubrack: https://2e.aonprd.com/Monsters.aspx?ID=301
 - Use the cultist statblock for the consorts: https://2e.aonprd.com/NPCs.aspx?ID=927
 - The Payroll contains 440 sp and 15 gp
