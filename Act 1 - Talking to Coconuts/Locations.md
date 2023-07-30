@@ -5,7 +5,7 @@ D: [[The Crooked Catch]]
 E: [[Treasure Pit]]
 F: [[Captain's Landfall]]
 G: [[Former Campsites]]
-H: Crab Kenku
+H: [[Beach Comber's Hut]]
 I: [[Causeway]]
 J: 
 K: **Let's see if anyone notices that this isn't a label**

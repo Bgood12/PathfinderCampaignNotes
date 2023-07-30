@@ -1,4 +1,4 @@
-There are a total of 23 cannibals on the island at the start of this adventure. Deformities are common among the cannibals as a result of inbreeding. Particularly deformed children are given to [[El Chupacabra]] as tribute.
+There are a total of 23 cannibals on the island at the start of this adventure. Deformities are common among the cannibals as a result of inbreeding. Particularly deformed children are given to [[Displacer Beast]] as tribute.
 
 
 

@@ -1,7 +1,7 @@
 #### Camp 1 (Shipname here)
 There are several small shelters made out of driftwood, most of them are partially collapsed.
 <br>
-#### Camp 2 (Shipname here)
+#### Camp 2 - Driftwood
 Several small structures made of palm fronds and driftwood.
 There are sabers and daggers scattered around the area.
 
