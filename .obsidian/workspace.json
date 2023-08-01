@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+                "file": "Act 1 - Talking to Coconuts/Locations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md"
               }
             }
           },
@@ -182,9 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92d4b92b7a26fbc2",
+  "active": "a0686fde1323eff9",
   "lastOpenFiles": [
     "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
+    "Maps/StoneHenge.png",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
@@ -216,10 +219,7 @@
     "Maps/JungleLegde.jpg",
     "Maps/Campsite.png",
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
-    "Maps/StoneHenge.png",
     "Maps",
-    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
-    "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
     "Act 1 - Talking to Coconuts/Locations",
