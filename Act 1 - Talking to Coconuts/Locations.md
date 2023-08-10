@@ -21,6 +21,6 @@ T: [[Snare Trap]]
 U: [[Camp Cannibal]]
 V: [[Caves of the Mother]]
 W: [[Rickety Rope Bridge]]
-X: Tide Stones
-Y: Pirate Queen's Temple
+X: [[Tide Stones]]
+Y: [[Pirate Queen's Temple]]
 Z: [[Mountain Peak]]
