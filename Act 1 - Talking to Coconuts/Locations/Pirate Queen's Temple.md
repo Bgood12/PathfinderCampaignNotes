@@ -22,3 +22,9 @@ The ceiling of this room is decorated with crisscrossing supports and grooves. T
 Use (as a guide): https://2e.aonprd.com/Hazards.aspx?ID=6
 
 ### Tomb of [[The First Pirate King]]
+Standing between the stairs is a beautifully carved 15ft tall statue of Besmara. On the dais behind the statue is [[The First Pirate King]]'s coffin and final resting place. [[Irena]] studies the markings on the wall, which depict the fall of [[The First Pirate King]], while [[Rubrack the Red]] stands guard.
+Once defeated an intellect devourer bursts from [[Irena]]'s skull and attempts to scurry away; the true mastermind of her plot.
+
+#### Loot
+[[Irena]] carries 18gp on her person as well as a spell casting focus. 
+1 of the [[Pieces of Eight]] is in the coffin with [[The First Pirate King]].
