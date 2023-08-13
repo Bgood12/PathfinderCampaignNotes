@@ -15,6 +15,7 @@ To the left of the 'T' intersection there are a a pair of false floor traps. At 
 ### Pit Traps
 The pit traps are connected to the **Doll Room** by a series of 1ft diameter carved tubes. If noise is caused by the traps the dolls move to defend the temple.
 Use the hidden pit statblock: https://2e.aonprd.com/Hazards.aspx?ID=1
+Soulbound doll statblock: https://2e.aonprd.com/Monsters.aspx?ID=383
 
 ### Blade Trap
 The ceiling of this room is decorated with crisscrossing supports and grooves. There are more murals of [[Besmara]] on the walls here. These are here to delay would-be sleuths into triggering the blade trap. 
