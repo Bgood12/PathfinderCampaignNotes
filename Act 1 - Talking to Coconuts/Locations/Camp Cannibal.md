@@ -38,7 +38,7 @@ Area 10: Irena's Quarters
 This is where [[Irena]] stayed during her stay with the cannibals. The remains of several meals are kept here. They are obviously from [[The Evangeline]]'s provisions.
 
 Area 11: Shrine to [[Kasa]]
-This room has several articles of paraphernalia salvaged from the wreck of The Voyager (S17). The centerpiece is the masthead that was taken from the ship shortly after its wreck. A DC20 Society check reveals that these items date back to the earliest days of House [[Kasa]]'s rule over [[Fascist Fantasy Iberia]].
+This room has several articles of paraphernalia salvaged from the wreck of The Voyager (S17). The centerpiece is the masthead that was taken from the ship shortly after its wreck. A DC20 Society check reveals that these items date back to the earliest days of House [[Kasa]]'s rule over [[Veriduna]].
 
 Area 12: Rubrack's Den
 A 20 foot stairwell leads to this room which takes the entire floor. [[Rubrack the Red]] along with his four consorts can be found here at any time of the day. The room is decorated with dilapidated furniture taken from The Voyager's wreck (S17). A dented footlocker against one wall contains the ship's payroll, kept more out of nostalgia than anything else. If [[Irena]] has already left she will have traded her minion in [[Captain Oakley]] for Rubrack depositing Oakley in the caves beneath the camp.

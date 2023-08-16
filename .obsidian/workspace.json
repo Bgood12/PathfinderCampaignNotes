@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b42a1288b0b328ee",
+        "id": "2fe739149c14b55b",
         "type": "tabs",
         "children": [
           {
-            "id": "92d4b92b7a26fbc2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maps/BesmaraTemple.jpg"
-              }
-            }
-          },
-          {
-            "id": "5a85a19b50b0ccd4",
+            "id": "911b88b56b42f16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
+                "file": "World Building/Countries/Veriduna.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,33 +21,19 @@
             }
           },
           {
-            "id": "3f561b2f8ae1fcb2",
+            "id": "2c221cd4bb4e6c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff9bfa82028ce567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
+                "file": "World Building/Countries/Illuris.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
+                "file": "World Building/Countries/Veriduna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
+                "file": "World Building/Countries/Veriduna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md"
+                "file": "World Building/Countries/Veriduna.md"
               }
             }
           },
@@ -193,14 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a85a19b50b0ccd4",
+  "active": "911b88b56b42f16b",
   "lastOpenFiles": [
+    "World Building/Countries/Illuris.md",
+    "World Building/Countries/Veriduna.md",
+    "Maps/CampCannibalMarkup.jpeg",
+    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Important NPCs/The First Pirate King.md",
     "World Building/Important NPCs/1st pirate king.md",
-    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "World Building/Important NPCs",
     "Maps/BesmaraTemple.jpg.crdownload",
     "Act 1 - Talking to Coconuts/Locations.md",
@@ -222,11 +201,8 @@
     "Maps/CavesOfTheMother.jpg",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "Maps/CampCannibalMarkup.jpeg",
     "Maps/CampCannibal.jpeg",
-    "World Building/Countries/Fascist Fantasy Iberia.md",
     "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
-    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
     "Maps/Ship.png",
     "Maps/JungleTrailAndStream.jpg",
     "Maps/CastawayBeachBattleMap.png",

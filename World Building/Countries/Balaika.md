@@ -1,1 +1,1 @@
-Former colony of [[Fascist Fantasy Iberia]] .
+Former colony of [[Veriduna]] .

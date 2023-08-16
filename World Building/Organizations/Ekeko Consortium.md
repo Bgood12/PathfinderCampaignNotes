@@ -1,4 +1,4 @@
-An unscrupulous multinational trade organization based in [[Fascist Fantasy Iberia]]
+An unscrupulous multinational trade organization based in [[Veriduna]]
 
 
 
