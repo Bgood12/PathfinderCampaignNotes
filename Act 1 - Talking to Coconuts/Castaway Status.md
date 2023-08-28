@@ -6,7 +6,7 @@
 | [[Aris Ramondo]] |             |        1           |                   |               |             |
 | [[Siaku Dolrino]]    |             |          1         |                   |               |             |
 | [[Geck Dildriast]]  |             |            1       |                   |               |             |
-| [[Ishirou]]              |            |              1     |                   |               |             |
+| [[Tatsu]]              |            |              1     |                   |               |             |
 | [[Sasha Kafer]]      |            |                   |         1          |               |             |
 
 
@@ -16,5 +16,5 @@
 | [[Aris Ramondo]] |             |                   |           1        |               |             |
 | [[Siaku Dolrino]]    |             |                   |                   |        1       |             |
 | [[Geck Dildriast]]  |             |                   |              1     |               |             |
-| [[Ishirou]]              |            |                   |                1   |               |             |
+| [[Tatsu]]              |            |                   |                1   |               |             |
 | [[Sasha Kafer]]      |            |                   |                  1 |               |             |

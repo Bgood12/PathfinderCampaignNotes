@@ -4,4 +4,7 @@ He senses the theft if his locket is removed from [[The Crooked Catch]] and will
 
 He will attack only if attacked, if the locket gets damaged or if the party seems to not be understanding his request.
 
-Captain Perry Kieran uses the Wraith statblock: https://2e.aonprd.com/Monsters.aspx?ID=417
+### Description
+Captain Kieran ethereal figure is a mix of moonlight and shadow.
+
+	Captain Perry Kieran uses the Ghost Commoner statblock: https://2e.aonprd.com/Monsters.aspx?ID=216

@@ -2,7 +2,7 @@ This grassy knoll is one of the few areas on the island that's not overgrown wit
 
 The treasure placed here were the spoils of one Claxton Eastoft who sought to hide his treasure until those he stole it from were long dead. Unfortunately for him shortly after leaving the island he was captured by privateers. His belongings, including his treasure map, were stolen and he was executed.
 
-Given that the map features a rather good drawing of the coast line of an unnamed island it was of little use to anyone and passed between many hands until reaching [[Ishirou]]'s. 
+Given that the map features a rather good drawing of the coast line of an unnamed island it was of little use to anyone and passed between many hands until reaching [[Tatsu]]'s. 
 
 The map indicates that at sunrise stand at the top of the hill where the sun comes between the two rock formation at sea and dig in that spot.
 
@@ -22,7 +22,7 @@ Lacedon stats: https://2e.aonprd.com/Monsters.aspx?ID=1865
 
 
 #### Treasure
-At the other end of the 'J' shaped shaft lies a waterproof and airtight chest (DC 30 thievery to open with tools). Finding and sharing this treasure with [[Ishirou]] completes his loyalty quest.
+At the other end of the 'J' shaped shaft lies a waterproof and airtight chest (DC 30 thievery to open with tools). Finding and sharing this treasure with [[Tatsu]] completes his loyalty quest.
 - 200 sp
 - 50 gp
 - 5 pp

@@ -11,7 +11,8 @@ Siaku is a very curious person and honest to a fault. The shipwreck has made his
 Siaku worked as a clerk in [[Balaika]] where he uncovered evidence that his supervisor was working with [[Veriduna]] to undermine the tributary relationship that [[Balaika]] has with the [[Pirate Confederacy]]. Siaku confronted the supervisor only to then be framed for the crime himself. He fled a vast distance, and worked as a scribe for the following decade before the bounty hunter [[Aris Ramondo]] caught up with him.
 
 
-
+## Unique Traits
+Siaku has a distinct laugh, a hearty chuckle that's instantly recognizable and can lighten even the darkest of moments.
 
 
 

@@ -1,13 +1,17 @@
-![[Ship.png]]Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
+![[Ship.png]]
+Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
 
 #### Description 
-The stern of the ship is all that has survived of [[The Evangeline]]. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
+The stern of the ship is all that has survived of [[The Evangeline]]. The stern of the ship, lodged among the jagged rocks, creaks and groans with each wave, a testament to its impending doom. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
 The bow of the lifeboat remains moored to the ship, the rest evidently was smashed to splinters against the rocks.
 
 *DC 10 Perception check* Notes that the lower decks are missing as well as the bow.
 
+Sensory: Add sensory details like the scent of saltwater, the echoing sounds within the wreck, and the play of light and shadow can further immerse your players in the environment.
+
 #### Encounter
 With the odd angle of the ship and the repeated crashing of the waves movement on the ship is considered difficult terrain.
+	Description: The angles are disorienting, and the constant crashing of waves makes movement arduous.
 
 There is one elite eurypterid in this encounter.
 https://2e.aonprd.com/Monsters.aspx?ID=1151&Elite=true

@@ -1,4 +1,6 @@
-There is a large grove of thorny vines on the river bank here with intimidating 4 inch red needles. 
+There is a large grove of thorny vines on the river bank here with intimidating 4 inch red needles, whose shadows dance on the ground. This thicket's tangled mass stretches like a natural barricade.
+
+Sensory: The wind rustling the vines creating an unsettling sound almost like whispering.
 
 This patch of needles is 30 feet thick and counts as difficult terrain. The first time that a creature moves through the needles on a turn it must make a DC 12 Reflex saving throw or be pricked by a needle. Once pricked a creature must make a DC 15 Fortitude saving throw or increase its sickened level by 1 for 24 hours as it develops a painful rash.
 

@@ -8,51 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "911b88b56b42f16b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Major Events/Veridunan Civil War.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf3838ff9d2a08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "444dd0db22ca58d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Veriduna.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c221cd4bb4e6c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Illuris.md",
+                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "427bb15bf635566c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbc7145b8f5097c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "633be08f339d2e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62aaf470d7ea8b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4565821bd318ee08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6116b9dad2b18d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Countries/Illuris.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Countries/Illuris.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Countries/Illuris.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md"
               }
             }
           },
@@ -196,12 +235,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c221cd4bb4e6c35",
+  "active": "427bb15bf635566c",
   "lastOpenFiles": [
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Castaways/Sasha Kafer.md",
+    "Act 1 - Talking to Coconuts/Castaways/Tatsu.md",
+    "Act 1 - Talking to Coconuts/Castaways/Aris Ramondo.md",
+    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
+    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
+    "World Building/Countries/Illuris.md",
     "World Building/Important NPCs/The First Pirate King.md",
     "World Building/Countries/Pirate Confederacy.md",
     "World Building/Countries/Balaika.md",
-    "World Building/Countries/Illuris.md",
     "World Building/Countries/Veriduna.md",
     "World Building/Major Events/Veridunan Civil War.md",
     "General.md",
@@ -214,22 +263,12 @@
     "World Building/Important NPCs/1st pirate king.md",
     "World Building/Important NPCs",
     "Maps/BesmaraTemple.jpg.crdownload",
-    "Act 1 - Talking to Coconuts/Locations.md",
     "Maps/StoneHenge.png",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
     "Camp 2.md",
-    "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
-    "Act 1 - Talking to Coconuts/Locations/Dryad Grove.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
-    "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
     "Maps/CavesOfTheMother.jpg",
     "Maps/CampCannibal.jpeg",
     "Maps/Ship.png",
