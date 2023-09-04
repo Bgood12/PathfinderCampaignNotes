@@ -3,7 +3,7 @@ Jib is a kobold who lives in the [[Beach Comber's Hut]].
 
 ### Appearance
 Jib wears a tricorn hat adorned with seashells. He wields a +1 Sawtooth Saber.
-
+Jib has a wiry frame and a twitchy demeanor which hints at the effect that long term isolation has had on his sanity. His eyes dart around with a mixture of paranoia and fascination, and his voice quivers as he speaks.
 
 ### Personality
 Jib is initially unfriendly towards the party due to the particularly rough time he's had on the island. 
