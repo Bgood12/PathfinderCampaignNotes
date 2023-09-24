@@ -3,10 +3,10 @@
 - [[CampCannibalMarkup.jpeg]]
 <br>
 
-There are a few huts here made out of wood with roofs made of palm fronds. The tree stump in front of the main structure is a wooden grate with a rope coil next to it.
+There are a few huts here made out of wood with roofs made of palm fronds. The tree stump in front of the main structure is a wooden grate with a rope coil next to it. Camp cannibal is an ominous well fortified outpost.
 
 Area 1: Outside the Camp
-Outside the gate is a chained up monitor lizard. This creature is intended to ward off intruders as well as alert the camp to their presence.
+Guarded by a chained monitor lizard, this area acts as a first line of defense, alerting the camp to intruders and warding them off.
 - Monitor Lizard statblock: https://2e.aonprd.com/Monsters.aspx?ID=289
 
 Area 2: The Fire Pit
@@ -20,7 +20,9 @@ Area 4: The Watch Tower
 A pair of cannibals are up here keeping lookout at all times.
 
 Area 5: Livestock Pens
-This are, surrounded in blue on the map is where the cannibals keep their prisoners. The prisoners are kept bound and immobilized. From here there is a clear view of the butchery room so the prisoners can see meals being prepared.
+This are, surrounded in blue on the map is where the cannibals keep their prisoners. 
+- Prisoner holding area with a clear view of the butchery room, instilling terror in the captives.
+- Cannibals keep their prisoners bound and immobilized here.
 
 Area 6: Refuse Area
 This ~10 deep pit is where the cannibals dispose of waste. (Located where the graves are on the map).
@@ -29,7 +31,7 @@ Area 7: Lighthouse Entrance
 A pair of cannibals keep watch here at all times.
 
 Area 8: The Butchery
-This is where the cannibals prepare their meals.
+This is where the cannibals prepare their grotesque meals.
 
 Area 9: The Supply Room
 This is where the cannibals keep their provisions. In addition to normal food a months supply of human jerky can be found here as well. If the cannibals have taken any prisoners their gear will be found here.
