@@ -1,4 +1,4 @@
-Illurum from Illinois + auris (latin for gold)
+Illurum from Illinois + aurum (latin for gold)
 AKA Fantasy Chicago
 
 Illurum, the amalgamation of opportunity and innovation, stands as a beacon in a world on the cusp of an industrial revolution. A fantasy counterpart to Chicago, this bustling metropolis thrives at the heart of numerous trade routes, its foundations rooted in commerce, bustling markets, and a forward-thinking economy.
@@ -9,6 +9,7 @@ Illurum enjoys a tactical position in the middle of countless trade routes as su
 Within Illurum; laborers and craftspeople are afforded the right to form guilds; traders however are not in an effort to thwart price fixing.
 #### Imports and Exports
 Illurum has several important exports. Iron and other ores are mainly mined by dwarven settlements on the island outside of Illurum proper. These ores are supplied to local craftspeople with the rest being exported. Lumber is made from a large forest on the island which continually sees accelerated new growth thanks to the workings of local druids. The city is also known for its shellfish such as clams, crab, and lobster. Pearls are harvested from several beds around the island.
+<<<<<<< HEAD
 
 Illurum's global trade is a result of carefully nurtured diplomatic relationships with neighboring nations and distant lands. Negotiations and diplomatic efforts are essential to maintain the city's position as a trade hub.
 

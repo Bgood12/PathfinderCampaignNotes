@@ -26,5 +26,9 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
+<<<<<<< HEAD
   "properties": true
+=======
+  "properties": false
+>>>>>>> 4a67e54d9b41958ffe3d3175f76733d5116bf173
 }

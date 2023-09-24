@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Countries/Veriduna.md",
+                "file": "World Building/Countries/Illurum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Countries/Veriduna.md",
+                "file": "World Building/Countries/Illurum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Countries/Veriduna.md"
+                "file": "World Building/Countries/Illurum.md"
               }
             }
           },
@@ -219,10 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08259734ff6d1301",
+  "active": "31717b9c0b893a75",
   "lastOpenFiles": [
+    "World Building/Countries/Veriduna.md",
     "World Building/Countries/Pirate Confederacy.md",
     "World Building/Countries/Illurum.md",
+    "World Building/Countries/Fantasy Chicago.md",
     "World Building/Countries/Balaika.md",
     "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
     "Act 1 - Talking to Coconuts/Locations.md",
@@ -245,8 +247,6 @@
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
     "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
     "Maps/BesmaraTemple.jpg",
