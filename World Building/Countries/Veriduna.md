@@ -7,7 +7,7 @@ AKA Fascist Fantasy Iberia
 - Is a colonial power with growing colonies in the new world.
 
 ### History
-History is slippery in Veriduna especially the events prior to the [[Veridunan Civil War]]. Veriduna's current rulers understand the inspiration that history can be and seek to eradicate the nations non-infernal past. New state-sanctioned histories are periodically released to universities and administrative buildings with the old histories recollected.
+History is slippery in Veriduna especially the events prior to the [[Veridunan Civil War]]. Veriduna's current rulers understand the inspiration that history can be and seek to eradicate the nation's non-infernal past. New state-sanctioned histories are periodically released to universities and administrative buildings with the old histories recollected.
 After [[Queen Deodora Kasa]]'s reign ended after 25 years Veriduna has experienced succession turmoil with 4 different rulers in the following 15 years; before seeming to settle on [[Queen Deodora Kasa II]] the granddaughter of [[Queen Deodora Kasa]].
 
 ### Government
@@ -18,10 +18,10 @@ A configuration of noble houses that were willing to participate in devil worshi
 Devil worship is the state religion of Veriduna. This came as a result of the deal made by [[Queen Deodora Kasa]] to end the [[Veridunan Civil War]].
 
 ### Culture
-There is absolute order in Veridunan society with no room allowed for dissent. A sense f nationalism is all but enforced as neighbors are incentivized to turn each other in for promises of wealth and prestige. 
+There is absolute order in Veridunan society with no room allowed for dissent. A sense of nationalism is all but enforced as neighbors are incentivized to turn each other in for promises of wealth and prestige. 
 
 ### Military
-Veriduna continues to field one of the largest militaries and navies of the region. They continue to employ devilish legions alongside their humanoid troops.
+Veriduna's military stands as a formidable force, boasting a combination of humanoid troops and infernal legions. Their engagement with devilish forces amplifies their might and ferocity.
 
 #### Naming Conventions
 Fascist Fantasy Iberia names tend to be very 'latin-esque' or Roman with some modern Italian names in the mix for variety.
