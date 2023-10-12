@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Veriduna.md",
+                "file": "World Building/Countries/Balaika.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Countries/Veriduna.md",
+                "file": "World Building/Countries/Balaika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Countries/Veriduna.md",
+                "file": "World Building/Countries/Balaika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Countries/Veriduna.md"
+                "file": "World Building/Countries/Balaika.md"
               }
             }
           },
@@ -222,10 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6981f9452cf667f9",
+  "active": "be8bd21831a65f75",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations.md",
     "World Building/Countries/Veriduna.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
     "World Building/Countries/Illurum.md",
     "World Building/Countries/Fantasy Chicago.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
