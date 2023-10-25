@@ -1,6 +1,6 @@
 Former colony of [[Veriduna]] .
 
-Balaika is a verdant and diverse country situated on the western coast [[Alkebulan]], known for its bustling trade and persistent struggle for self determination. The nation stretches along a picturesque coastline, adorned with beautiful beaches, dense rainforests, and expansive savannas. The geographical diversity lends itself to a wide array of natural resources and a climate that is both bountiful and temperate.
+Balaika is a verdant and diverse country situated in [[Zelvahar]] on the western coast [[Alkebulan]], known for its bustling trade and persistent struggle for self determination. The nation stretches along a picturesque coastline, adorned with beautiful beaches, dense rainforests, and expansive savannas. The geographical diversity lends itself to a wide array of natural resources and a climate that is both bountiful and temperate.
 
 ### Cities and Settlements
 **Aurelion:** The capital city, a bustling metropolis perched on the coast. It is a symbol of the colonial presence and often a focal point for protests and demonstrations seeking freedom from colonial rule.
