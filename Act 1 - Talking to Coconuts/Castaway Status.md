@@ -3,18 +3,18 @@
 ## Friendship
 | Names             | Hostile | Unfriendly | Indifferent | Friendly | Helpful |
 |-----------------|---------|-------------|-------------|----------|---------|
-| [[Aris Ramondo]] |             |        1           |                   |               |             |
+| [[Luca Romano]] |             |        1           |                   |               |             |
 | [[Siaku Dolrino]]    |             |          1         |                   |               |             |
 | [[Geck Dildriast]]  |             |            1       |                   |               |             |
 | [[Tatsu]]              |            |              1     |                   |               |             |
-| [[Sasha Kafer]]      |            |                   |         1          |               |             |
+| [[Sonja Krieg]]      |            |                   |         1          |               |             |
 
 
 ## Morale
 | Names         | Panicked | Frightened | Shaken      | Normal  | Hopeful |
 |-----------------|---------|-------------|-------------|----------|---------|
-| [[Aris Ramondo]] |             |                   |           1        |               |             |
+| [[Luca Romano]] |             |                   |           1        |               |             |
 | [[Siaku Dolrino]]    |             |                   |                   |        1       |             |
 | [[Geck Dildriast]]  |             |                   |              1     |               |             |
 | [[Tatsu]]              |            |                   |                1   |               |             |
-| [[Sasha Kafer]]      |            |                   |                  1 |               |             |
+| [[Sonja Krieg]]      |            |                   |                  1 |               |             |

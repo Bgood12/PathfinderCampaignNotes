@@ -2,7 +2,7 @@ While the PCs are within 1/2 mile of a predator den a *DC 20 survival check* rev
 
 R1: Pteranodon
 - Pteranodons nest on cliffsides.
-- [[Sasha Kafer]] acquires a fascination with these creatures as soon as she sees one. Gifting one as a pet is a good way to win her loyalty.
+- [[Sonja Krieg]] acquires a fascination with these creatures as soon as she sees one. Gifting one as a pet is a good way to win her loyalty.
 - https://2e.aonprd.com/Monsters.aspx?ID=341
 
 R2: Ball Python
