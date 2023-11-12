@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Cast/Leaklan Plateau.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,100 +34,12 @@
             }
           },
           {
-            "id": "01b5eb65e7ca680b",
+            "id": "51b9ea76f7575e98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1766460e387cc077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4be0109d3b0148d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4f007232bc41ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c00dfcea4255b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Zelvahar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6ee8106d3087b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ecbf04b407841de",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maps/BesmaraTemple.jpg"
-              }
-            }
-          },
-          {
-            "id": "ba9589a255f105a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
+                "file": "Cast/Ima Ental.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Cast/Leaklan Plateau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Cast/Leaklan Plateau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Cast/Leaklan Plateau.md"
               }
             }
           },
@@ -273,22 +185,23 @@
   },
   "active": "62db8c4a974b1a30",
   "lastOpenFiles": [
+    "Cast/Ima Ental.md",
+    "Cast/Leaklan Plateau.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "TODO.md",
     "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
     "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
-    "TODO.md",
     "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
     "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Countries/Zelvahar.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
     "World Building/Countries/Zirnitra.md",
-    "Cast/Dakota's Character.md",
     "World Building/Countries/Balaika.md",
     "World Building/Countries/Veriduna.md",
     "World Building/Countries/Pirate Confederacy.md",
@@ -299,7 +212,6 @@
     "Zmey Valny.md",
     "Sklep Famdarry.md",
     "Sklep.md",
-    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
     "World Building/Important NPCs",
