@@ -34,4 +34,4 @@ Standing between the stairs is a beautifully carved 15ft tall statue of #TODO. O
 #### Loot
 [[Irena]] carries 18gp on her person as well as a spell casting focus. 
 [[Irena]]'s research notes, transcriptions, etc
-#TODO elaborate on Irena's notes
+[[Irena's Notes]]

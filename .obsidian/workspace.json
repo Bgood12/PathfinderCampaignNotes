@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/Leaklan Plateau.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1efb05c097e3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cast/Leaklan Plateau.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cast/Leaklan Plateau.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cast/Leaklan Plateau.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md"
               }
             }
           },
@@ -185,33 +198,33 @@
   },
   "active": "62db8c4a974b1a30",
   "lastOpenFiles": [
-    "Cast/Ima Ental.md",
-    "Cast/Leaklan Plateau.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
-    "TODO.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
+    "World Building/Countries/Zirnitra.md",
     "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
+    "Cast/Leaklan Plateau.md",
+    "Cast/Ima Ental.md",
+    "TODO.md",
     "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
     "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
     "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Countries/Zelvahar.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "World Building/Countries/Zirnitra.md",
     "World Building/Countries/Balaika.md",
-    "World Building/Countries/Veriduna.md",
-    "World Building/Countries/Pirate Confederacy.md",
-    "World Building/Countries/Illurum.md",
-    "World Building/Countries/Fantasy Chicago.md",
-    "Act 1 - Talking to Coconuts/Castaways/Sonja Krieg.md",
-    "Act 1 - Talking to Coconuts/Castaways/Luca Romano.md",
-    "Zmey Valny.md",
-    "Sklep Famdarry.md",
-    "Sklep.md",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
     "World Building/Important NPCs",
