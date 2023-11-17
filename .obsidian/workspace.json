@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+                "file": "Act 1 - Talking to Coconuts/Locations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "ad1efb05c097e3f6",
+            "id": "0d4434582df1bfa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,77 @@
             }
           },
           {
-            "id": "51b9ea76f7575e98",
+            "id": "639a3734d3891cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/Ima Ental.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8375e859c5c40d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22aae617e7cf25ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a41e158d408026d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d45de4f886b35156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff4f6f6f232841c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md"
+                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md"
               }
             }
           },
@@ -196,8 +261,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62db8c4a974b1a30",
+  "active": "0d4434582df1bfa5",
   "lastOpenFiles": [
+    "Maps/ZirnitranOutpost.jpg",
+    "Maps/Cannibal Island.jpg",
+    "Maps/Cannibal Island A.jpg",
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
+    "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
+    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
@@ -209,22 +287,11 @@
     "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
     "World Building/Countries/Zirnitra.md",
-    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
     "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
     "Cast/Leaklan Plateau.md",
     "Cast/Ima Ental.md",
-    "TODO.md",
-    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
-    "Act 1 - Talking to Coconuts/Locations/Pirate Queen's Temple.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
-    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Maps/BesmaraTemple.jpg",
-    "World Building/Countries/Zelvahar.md",
-    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
-    "World Building/Countries/Balaika.md",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
     "World Building/Important NPCs",
@@ -235,8 +302,6 @@
     "Maps/Ship.png",
     "Maps/JungleTrailAndStream.jpg",
     "Maps/CastawayBeachBattleMap.png",
-    "Maps/JungleLegde.jpg",
-    "Maps/Campsite.png",
     "Maps",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
