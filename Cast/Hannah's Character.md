@@ -1,0 +1,11 @@
+#TODO 
+- Who did a genocide?
+	- Heard a name or something?
+	- Specific type of creature was present.
+		- Devils? - Failed attempt by [[Veriduna]] of recapturing [[Balaika]]
+- Why did a genocide?
+	- Caught in the crossfire?
+- What is the artifact?
+	- Lost during the attack above?
+	- Trident made out of part of coral reef?
+	- 

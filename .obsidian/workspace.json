@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c221cd4bb4e6c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Zirnitra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62db8c4a974b1a30",
             "type": "leaf",
             "state": {
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+                "file": "World Building/Major Events/Veridunan Civil War.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +34,12 @@
             }
           },
           {
-            "id": "79bb1b6cac1e0506",
+            "id": "006f799ff3c213cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+                "file": "General.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +47,12 @@
             }
           },
           {
-            "id": "119c1ba03203bc0e",
+            "id": "5b8a0f88d4d36483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Zelvahar.md",
+                "file": "Cast/Eden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +60,25 @@
             }
           },
           {
-            "id": "438ec28bbe93e658",
+            "id": "c0f720353cd273de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Illurum.md",
+                "file": "Cast/Ima Ental.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4b4f9357adc690f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Mayak.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+                "file": "Cast/Eden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+                "file": "Cast/Eden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md"
+                "file": "Cast/Eden.md"
               }
             }
           },
@@ -222,15 +222,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8bd21831a65f75",
+  "active": "5b8a0f88d4d36483",
   "lastOpenFiles": [
+    "Cast/Mayak.md",
+    "Cast/Ima Ental.md",
+    "Cast/Eden.md",
+    "Cast/Hannah's Character.md",
+    "General.md",
+    "World Building/Major Events/Veridunan Civil War.md",
+    "World Building/Countries/Zirnitra.md",
     "Maps/CannibalIsland.png",
     "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "World Building/Countries/Sirocco Territories.md",
     "World Building/Countries/Zelvahar.md",
     "World Building/Countries/Illurum.md",
-    "General.md",
     "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/Cannibal Island.jpg",
@@ -248,11 +254,6 @@
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
@@ -262,7 +263,6 @@
     "Maps/CavesOfTheMother.jpg",
     "Maps/CampCannibal.jpeg",
     "Maps/Ship.png",
-    "Maps/JungleTrailAndStream.jpg",
     "Maps",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
