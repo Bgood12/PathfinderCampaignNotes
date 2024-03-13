@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/Eden.md",
+                "file": "Tide Caller's Amulet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2c61426fdeec185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Hannah's Character.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cast/Eden.md",
+                "file": "Cast/Hannah's Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cast/Eden.md",
+                "file": "Cast/Hannah's Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cast/Eden.md"
+                "file": "Cast/Hannah's Character.md"
               }
             }
           },
@@ -222,12 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b8a0f88d4d36483",
+  "active": "a2c61426fdeec185",
   "lastOpenFiles": [
+    "Tide Caller's Amulet.md",
+    "Cast/Hannah's Character.md",
+    "Cast/Zach's Character.md",
+    "Cast/Eden.md",
     "Cast/Mayak.md",
     "Cast/Ima Ental.md",
-    "Cast/Eden.md",
-    "Cast/Hannah's Character.md",
     "General.md",
     "World Building/Major Events/Veridunan Civil War.md",
     "World Building/Countries/Zirnitra.md",
@@ -252,8 +267,6 @@
     "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",

@@ -1,11 +1,9 @@
+
 #TODO 
 - Who did a genocide?
-	- Heard a name or something?
-	- Specific type of creature was present.
-		- Devils? - Failed attempt by [[Veriduna]] of recapturing [[Balaika]]
+	- A: [[Unnamed Pirate Captain Antagonist]]. He was looking for prestige in his early career. He managed to acquire a sizable reputation with the aid of the [[Tide Caller's Amulet]]. Hannah's character would likely have access to a ship name.
 - Why did a genocide?
 	- Caught in the crossfire?
 - What is the artifact?
-	- Lost during the attack above?
-	- Trident made out of part of coral reef?
+	- The [[Tide Caller's Amulet]] was plundered during the raid on the sea elves.
 	- 
