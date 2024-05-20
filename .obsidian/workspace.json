@@ -8,136 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2c61426fdeec185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Hannah's Character.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830741351b0aab2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Eden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f278673ddff017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Leaklan Plateau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a7a093413367501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Maelstrom.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f0e9cbb403cac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Mayak.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f667a5348aaeb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Leaklan Plateau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8521aacde3079f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Ima Ental.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "217066d03b10719b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Eden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a550cb3084234c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Major Events/Veridunan Civil War.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f720353cd273de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Ima Ental.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4b4f9357adc690f",
             "type": "leaf",
             "state": {
@@ -149,9 +19,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "606204ffa2598e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Leaklan Plateau.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4966e95dcf5308a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Ima Ental.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87415fcccb244039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Eden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42b2b273cfc44557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ea9d4cb6322c19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Maelstrom.md",
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Maelstrom.md",
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Maelstrom.md"
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md"
               }
             }
           },
@@ -287,20 +222,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a7a093413367501",
+  "active": "42b2b273cfc44557",
   "lastOpenFiles": [
-    "Cast/Victor Kataga.md",
-    "Cast/Ima Ental.md",
-    "Cast/Mayak.md",
-    "Cast/Eden.md",
-    "Cast/Leaklan Plateau.md",
+    "Act 2 - TBD/Brightwater/Brightwater.md",
+    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+    "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
+    "Act 2 - TBD/Brightwater/NPCs",
+    "Act 2 - TBD/Brightwater",
+    "Act 2 - TBD",
     "Tide Caller's Trident.md",
+    "The Maelstrom.md",
+    "Cast/Victor Kataga.md",
+    "Cast/Zach's Character.md",
+    "Cast/Eden.md",
+    "Cast/Ima Ental.md",
+    "Cast/Leaklan Plateau.md",
+    "Cast/Mayak.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
     "World Building/Major Events/Veridunan Civil War.md",
-    "Cast/Hannah's Character.md",
     "General.md",
+    "Cast/Hannah's Character.md",
+    "Tide Caller's Amulet.md",
     "World Building/Countries/Zirnitra.md",
     "Maps/CannibalIsland.png",
-    "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "World Building/Countries/Sirocco Territories.md",
     "World Building/Countries/Zelvahar.md",
@@ -313,12 +257,6 @@
     "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
-    "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
-    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
-    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
@@ -332,9 +270,6 @@
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
     "Act 1 - Talking to Coconuts/Locations",
-    "World Building/Organizations",
-    "Remote",
-    "World Building/Countries",
     "Untitled.canvas"
   ]
 }
