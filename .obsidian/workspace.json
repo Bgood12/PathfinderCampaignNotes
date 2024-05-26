@@ -52,8 +52,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
-                "mode": "preview",
+                "file": "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed0368a62a715503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
+                "file": "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
+                "file": "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Brightwater.md"
+                "file": "Act 2 - TBD/Brightwater/Locations/Freedom Square.md"
               }
             }
           },
@@ -209,14 +222,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99805f8450542cde",
+  "active": "12116736bece2660",
   "lastOpenFiles": [
-    "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
+    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+    "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
     "Act 2 - TBD/Brightwater/Brightwater.md",
+    "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
     "Act 2 - TBD/Brightwater/Locations",
     "Act 2 - TBD/Brightwater/NPCs/Father Jacob Marlowe.md",
     "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
-    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
     "Act 2 - TBD/Brightwater/NPCs",
     "Act 2 - TBD/Brightwater",
     "Act 2 - TBD",

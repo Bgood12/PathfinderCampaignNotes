@@ -5,7 +5,7 @@ The town of Brightwater resides on a curve of shoreline of a largish isle. A ser
 #### Locations
 **[[The Lucky Mug]]**
 - The most popular tavern in town, known for its lively atmosphere and excellent ale. The tavern serves as a central hub for both locals and visitors.
-**Freedom Square**
+**[[Freedom Square]]**
 - A large, open square in the center of town. It's surrounded by market stalls. During [[Cayden's Revelry]] it’s surrounded by market stalls, stages for performances, and areas for games and competitions.
 **Temple of Cayden Cailean**
 - A welcoming temple dedicated to Cayden Cailean, The Lucky Drunk. It’s a place of worship, but also a social hub, where people gather to share stories, seek blessings, and celebrate.
