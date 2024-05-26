@@ -3,7 +3,7 @@ Brightwater is a bustling, vibrant town located on one of the smaller pirate isl
 The town of Brightwater resides on a curve of shoreline of a largish isle. A series of small well-made wooden bridges connect the larger town to a smaller island with a deep water cove. The town is made of of small well-made wooden buildings. Currently many of the towns building and bridges are decorated with festive palm fronds and flowers. The shallower sea between the two islands houses many small ships, while the larger oceangoing vessels use the smaller islands piers or lie anchored farther out in the harbor.
 
 #### Locations
-**The Lucky Mug**
+**[[The Lucky Mug]]**
 - The most popular tavern in town, known for its lively atmosphere and excellent ale. The tavern serves as a central hub for both locals and visitors.
 **Freedom Square**
 - A large, open square in the center of town. It's surrounded by market stalls. During [[Cayden's Revelry]] it’s surrounded by market stalls, stages for performances, and areas for games and competitions.
@@ -13,7 +13,7 @@ The town of Brightwater resides on a curve of shoreline of a largish isle. A ser
 - A bustling marketplace near the docks, where traders sell a variety of goods, including fresh seafood, exotic spices, and handcrafted items.
 
 #### Important NPCs
-**Father Jacob Marlowe**
+**[[Father Jacob Marlowe*]]*
 - The jovial high priest of the Temple of Cayden Cailean. Known for his hearty laughter and love of a good drink, he ensures that the temple is always a place of joy and welcome.
 - **Role:** Spiritual guide and festival host.
 **[[Lyra Stormwind]]**

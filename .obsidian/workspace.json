@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4b4f9357adc690f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Mayak.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "606204ffa2598e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Leaklan Plateau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4966e95dcf5308a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Ima Ental.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87415fcccb244039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Eden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "42b2b273cfc44557",
             "type": "leaf",
             "state": {
@@ -74,6 +22,45 @@
           },
           {
             "id": "6ea9d4cb6322c19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/NPCs/Father Jacob Marlowe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96f7e79d869b2d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12116736bece2660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99805f8450542cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md"
+                "file": "Act 2 - TBD/Brightwater/Brightwater.md"
               }
             }
           },
@@ -222,11 +209,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42b2b273cfc44557",
+  "active": "99805f8450542cde",
   "lastOpenFiles": [
+    "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
     "Act 2 - TBD/Brightwater/Brightwater.md",
-    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+    "Act 2 - TBD/Brightwater/Locations",
+    "Act 2 - TBD/Brightwater/NPCs/Father Jacob Marlowe.md",
     "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
+    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
     "Act 2 - TBD/Brightwater/NPCs",
     "Act 2 - TBD/Brightwater",
     "Act 2 - TBD",
@@ -254,9 +244,6 @@
     "Maps/Cannibal Island.jpg",
     "Maps/Cannibal Island A.jpg",
     "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
-    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
-    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
-    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
     "Maps/CampCannibalMarkup.jpeg",
@@ -269,7 +256,6 @@
     "Maps",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",
-    "Act 1 - Talking to Coconuts/Locations",
     "Untitled.canvas"
   ]
 }
