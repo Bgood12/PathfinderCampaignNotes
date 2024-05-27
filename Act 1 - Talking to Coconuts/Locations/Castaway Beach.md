@@ -1,9 +1,9 @@
 The party was poisoned during dinner on [[The Evangeline]] the night prior. *Roll Fortitude saving throws to determine the order the party awakens*. The character with the best save will awaken slowly with a numbing sensation and slowly subceeding darkness before a sharp prick to their foot jolts them awake. This prick comes from a hungry eurypterid. *This deals 1 damage*. 
 
-The other party members along with the other five castaways are beginning to stir on the beach. The other party members naturally awaken at a rate of one per round unless they take damage or they are awakened some other way.
+The other party members along with the other four castaways are beginning to stir on the beach. The other party members naturally awaken at a rate of one per round unless they take damage or they are awakened some other way.
 <br>
 #### Description
-This cove is tucked away between cliffs with a wall of green at the threshold of the dense tropical jungle and an array of jagged rocks line each side of the cove that act as a natural barrier against the crashing waves. The sand of the beach is pale powdery and warm.
+This secluded cove leads into a wall of green marking the threshold of the dense tropical jungle at the beach's edge. Jagged rocks line each side of the cove, creating a natural barrier against the relentless crashing waves. The sand is pale, powdery, and warm underfoot. The air is filled with the scent of salt and seaweed. The sound of waves crashing and the distant calls of exotic birds from the jungle create a haunting yet serene atmosphere.
 
 *DC 10 Perception check* Spots the mast of [[The Evangeline]] peeing over the rocks near the entrance to the cove.
 
