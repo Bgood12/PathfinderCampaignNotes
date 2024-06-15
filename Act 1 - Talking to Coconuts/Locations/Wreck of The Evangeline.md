@@ -2,8 +2,9 @@
 Once below decks a frenzied scratching can be heard from the eurypterid attempting to get into the storeroom where the first mate [[Victor Osric]] died.
 
 #### Description 
-The stern of the ship is all that has survived of [[The Evangeline]]. The stern of the ship, lodged among the jagged rocks, creaks and groans with each wave, a testament to its impending doom. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. 
+The stern of the ship is all that has survived of [[The Evangeline]]. The stern of the ship, lodged among the jagged rocks, creaks and groans with each wave, a testament to its impending doom. It should only be a matter of time before the constant crashing of the wave dislodges the ship from the collection of jagged rocks that it finds itself on. The air is thick with the scent of saltwater and decay. 
 The bow of the lifeboat remains moored to the ship, the rest evidently was smashed to splinters against the rocks.
+Once inside the sound of waves crashing against the hull echoes hauntingly through the empty corridors. The light filters in through cracks and holes in the hull, casting eerie shadows that dance with the movement of the ship.
 
 *DC 10 Perception check* Notes that the lower decks are missing as well as the bow.
 
@@ -19,7 +20,7 @@ https://2e.aonprd.com/Monsters.aspx?ID=1151&Elite=true
 
 #### Loot
 ##### Captains Cabin
-Most everything in the captains cabin has escaped trough a hole in the ship, luckily the desk was too large to fit through the hole.
+The captain's cabin is partially intact, but most of its contents have been lost to the sea through a gaping hole in the side of the ship. The desk, too large to fit through the hole, remains, albeit heavily damaged.
 Desk contents
 - Top drawer
 	- A keyring with several keys (lower drawer, [[Siaku Dolrino]]'s manacles)
@@ -44,9 +45,10 @@ Small Footlocker stuck under desk (locked - see keys in top drawer)
 	- Holy symbol of Nethys (Unless I feel like homebrewing a pantheon)
 	- Spell component pouch
 ##### Larder
-The cook's dead body is found hidden here; along with 24 rations worth of foodstuffs.
+The larder is a grim scene. The cook's dead body is hidden among the scattered provisions, his face a mask of agony. The smell of rot mixes with the salty air.
+-  24 rations worth of foodstuffs.
 ##### Supply Room
-The room that the eurypterid was attempting to access has a trickle of blood coming from under the door.
+The room that the eurypterid was attempting to access has a trickle of blood seeping from under the door. The door is damaged, claw marks visible on its surface.
 [[Victor Osric]]
 - Has two sets of wounds (Detectable with a DC 15 Medicine check)
 	- The first set caused by a rapier

@@ -6,5 +6,6 @@ He will attack only if attacked, if the locket gets damaged or if the party seem
 
 ### Description
 Captain Kieran ethereal figure is a mix of moonlight and shadow.
+His eyes glow with a faint otherworldly light.
 
 	Captain Perry Kieran uses the Ghost Commoner statblock: https://2e.aonprd.com/Monsters.aspx?ID=216
