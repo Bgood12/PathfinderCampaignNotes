@@ -1,4 +1,4 @@
-The Dark Tentacle is wedged between two sizable rocks off the coast of the [[Fungus Island]]. It is covered entirely by a thick layer of grey fungus. Several strands of this fungus reach the mainland almost like rope bridges.
+The Dark Tentacle is wedged between two sizable rocks off the coast of the [[Fungus Island]]. The vessel, once a proud ship, is now a grim shadow of its former self, covered entirely by a thick layer of grey fungus. Several strands of this fungus reach the mainland almost like grotesque, organic rope bridges. They grey growth on the ship pulsates subtley.
 
 Unconscious characters are brought to the ship's galley where they are force fed fungus in an ill fated attempt to create more myconoids. If a character dies during this process they are thrown overboard.
 
@@ -18,3 +18,4 @@ Captain's cabin
 - A log book badly damaged by mold
 	- DC 20 Society check to decipher
 	- Each attempt to decipher takes 8 hours
+	- The fungal orb was taken from a [[Zirnitra]]n ruin

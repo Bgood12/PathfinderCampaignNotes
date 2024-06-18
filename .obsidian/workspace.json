@@ -21,19 +21,85 @@
             }
           },
           {
-            "id": "6d3f783aafd95c9f",
+            "id": "cba312930d67070b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
+                "file": "Tide Caller's Trident.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d44e9e4e2db97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Major Events/Veridunan Civil War.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "419f020870beec5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Countries/Illurum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b4ae1cee85d11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41722e8fa61c56c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a3798e8f7d4161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Causeway.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Tide Caller's Trident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
+                "file": "Tide Caller's Trident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md"
+                "file": "Tide Caller's Trident.md"
               }
             }
           },
@@ -169,10 +235,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51bca582435bb769",
+  "active": "cba312930d67070b",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
+    "World Building/Major Events/Veridunan Civil War.md",
+    "Tide Caller's Trident.md",
+    "World Building/Countries/Illurum.md",
+    "General.md",
+    "World Building/Countries/Fantasy Chicago.md",
+    "World Building/Countries/Zelvahar.md",
+    "World Building/Countries/Balaika.md",
+    "World Building/Countries/Pirate Confederacy.md",
+    "World Building/Important NPCs/The First Pirate King.md",
     "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
+    "Act 1 - Talking to Coconuts/Locations/Fungus Island.md",
+    "Act 1 - Talking to Coconuts/Locations/Causeway.md",
+    "Maps/Ship.png",
+    "Maps/JungleTrailAndStream.jpg",
+    "Maps/Cannibal Island.jpg",
+    "Maps/CannibalIsland.png",
+    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+    "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
@@ -181,29 +267,11 @@
     "Act 1 - Talking to Coconuts/Castaways/Tatsu.md",
     "Act 1 - Talking to Coconuts/Castaways/Sonja Krieg.md",
     "Act 1 - Talking to Coconuts/Castaways/Luca Romano.md",
-    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
-    "Act 1 - Talking to Coconuts/Castaway Status.md",
-    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
-    "Act 1 - Talking to Coconuts/Castaways/Geck Dildriast.md",
-    "Act 2 - TBD/Brightwater/Brightwater.md",
-    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
-    "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
-    "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
     "Act 2 - TBD/Brightwater/Locations",
-    "Act 2 - TBD/Brightwater/NPCs/Father Jacob Marlowe.md",
-    "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
     "Act 2 - TBD/Brightwater/NPCs",
     "Act 2 - TBD/Brightwater",
     "Act 2 - TBD",
-    "Tide Caller's Trident.md",
-    "The Maelstrom.md",
-    "Cast/Victor Kataga.md",
-    "Cast/Zach's Character.md",
-    "Cast/Eden.md",
-    "Cast/Ima Ental.md",
-    "Maps/CannibalIsland.png",
     "Maps/ZirnitranOutpost.jpg",
-    "Maps/Cannibal Island.jpg",
     "Maps/Cannibal Island A.jpg",
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
@@ -212,8 +280,6 @@
     "Maps/BesmaraTemple.jpg.crdownload",
     "Maps/StoneHenge.png",
     "Maps/CavesOfTheMother.jpg",
-    "Maps/CampCannibal.jpeg",
-    "Maps/Ship.png",
     "Maps",
     "Act 1 - Talking to Coconuts/Other NPCs",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries",

@@ -6,6 +6,8 @@ The scent of the sea lingering on the air and the nearby palm fronds add a stran
 Several small structures made of palm fronds and driftwood.
 There are sabers and daggers scattered around the area. These weapons have been worn and weathered by exposure to the elements. All show at least a noteworthy amount of rust.
 
+PCs can smell a sharp tang of rust.
+
 *DC 20 Perception* - A dagger with a +1 potency rune in a leather scabbard poking out from under pile of driftwood. The rune is stylized to look like a scorpion tail in a spiral. This is the symbol of the [[Crimson Scorpions]], it's also the symbol tattooed between [[Sonja Krieg]]'s shoulder blades.
 <br>
 

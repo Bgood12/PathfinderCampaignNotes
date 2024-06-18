@@ -17,7 +17,7 @@ Balaika is a verdant and diverse country situated in [[Zelvahar]] on the western
 **Trade Routes:** The country's strategic coastal location allows for flourishing trade, attracting merchants from neighboring regions and beyond.
 
 ### History
-Balaika was a colony of [[Veriduna]] that declared independence during the [[Veridunan Civil War]]. Following the [[Veridunan Civil War]] [[House Kasa]] sought to reclaim the lost colony in a step twards reviving Imperial Veriduna. Balaika knowing that it couldn't stand against the might of the Veridunan navy made its own 'deal with  the devil'.
+Balaika was a colony of [[Veriduna]] that declared independence during the [[Veridunan Civil War]]. Following the [[Veridunan Civil War]] [[House Kasa]] sought to reclaim the lost colony in a step towards reviving Imperial Veriduna. Balaika knowing that it couldn't stand against the might of the Veridunan navy made its own 'deal with the devil'.
 To cement their independence Balaika made a deal with the [[Pirate Confederacy]] to pay tribute in exchange for protection from Veriduna. This agreement ended up giving rise to [[The First Pirate King]]; whom led the combined pirate armada against the Veridunan navy.
 
 ### Political Unrest
