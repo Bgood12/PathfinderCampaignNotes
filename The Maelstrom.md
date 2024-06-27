@@ -1,6 +1,6 @@
 
 ### Description
-A massive plume of water erupting from the oceans surface. The water from the eruption carries in the wind drastically increasing rainfall in the nearby [[Saharan Rainforest]]. The displacement from this sub-aquatic mega-geyser creates a constant tsunami effect for nearly 250 miles.
+A massive plume of water erupting from the oceans surface. The water from the eruption carries in the wind drastically increasing rainfall in nearby [[Zelvahar]]. The displacement from this sub-aquatic mega-geyser creates a constant tsunami effect for nearly 250 miles.
 
 
 ### History

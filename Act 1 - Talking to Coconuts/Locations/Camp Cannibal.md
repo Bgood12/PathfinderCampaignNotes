@@ -4,9 +4,10 @@
 <br>
 
 There are a few huts here made out of wood with roofs made of palm fronds. The tree stump in front of the main structure is a wooden grate with a rope coil next to it. Camp cannibal is an ominous well fortified outpost.
+The entire camp is surrounded by a wooden palisade reinforced with thorny vines. Rotting flesh and the metallic scent of blood can be smelled throughout the camp.
 
 Area 1: Outside the Camp
-Guarded by a chained monitor lizard, this area acts as a first line of defense, alerting the camp to intruders and warding them off.
+Guarded by a chained monitor lizard, this area acts as a first line of defense. Its hissing and thrashing alert the camp to intruders and ward them off.
 - Monitor Lizard statblock: https://2e.aonprd.com/Monsters.aspx?ID=289
 
 Area 2: The Fire Pit

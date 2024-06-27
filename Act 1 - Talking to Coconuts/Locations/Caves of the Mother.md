@@ -2,7 +2,7 @@
 - [[CavesOfTheMother.jpg]]
 
 **Description:** 
-The Caves of the Mother, a dark and eerie underground system, harbors the insidious influence of Nelizia, a twisted priestess who transforms the unfortunate into her pack of ghoulish minions. Nestled beneath Camp Cannibal, these caves are a breeding ground for the infected and a stronghold for the malevolent forces threatening the island.
+The Caves of the Mother, a dark and eerie underground system, harbors the insidious influence of [[Nelizia]], a twisted priestess who transforms the unfortunate into her pack of ghoulish minions. Nestled beneath Camp Cannibal, these caves are a breeding ground for the infected and a stronghold for the malevolent forces threatening the island. Moisture hangs in the air and on the walls of the cave throughout.
 
 ##### Entryway
 A wooden grate in [[Camp Cannibal]] opens to a 20 foot drop into the top of this area.

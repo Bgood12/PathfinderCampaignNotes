@@ -1,4 +1,4 @@
-The trail passes through a 10 foot wide gulch here with steep 50 foot cliff/hills on each side. There is always a cannibal on watch here keeping an active lookout.
+The trail passes through a 10 foot wide gulch here with steep 50 foot cliff/hills on each side, with sparse vegetation, mostly small shrubs and patches of moss, clinging to the rocky surface. Wind whistles through the gulch.There is always a cannibal on watch here keeping an active lookout.
 
 DC 10 Athletics (Climb - Action) to scale either cliff.
 
@@ -7,3 +7,4 @@ There is a [[Snare Trap]] in the gulch. The cannibal can manually activate it fr
 As an action the cannibal can pull a snared creature 5 feet up the side of the gulch.
 
 Use cultist statblock for cannibals: https://2e.aonprd.com/NPCs.aspx?ID=927
+

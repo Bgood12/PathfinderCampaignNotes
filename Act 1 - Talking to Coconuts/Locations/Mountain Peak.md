@@ -1,1 +1,3 @@
-The mountain peak offers a breathtaking view, a vantage point from which the entire island and the seemingly endless expanse of blue that surrounds it. There is a series of rock formations here where the cannibals make offerings of bound animals, and at least once a year a live human, to [[Displacer Beast]]. 
+The mountain peak stands as the highest point on the island. It offers a breathtaking panoramic view, a vantage point from which the entire island and the seemingly endless expanse of blue that surrounds it. There is a series of rock formations here where the cannibals make offerings of bound animals, and at least once a year a live human, to [[Displacer Beast]]. 
+
+A series of ancient, jagged rock formations dominate the peak. These rocks have been weathered by centuries of wind and rain, creating natural altars and crevices where offerings are placed. Bones and decayed animal carcasses can be found scattered around the rocks.
