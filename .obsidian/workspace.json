@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4043c37d41b7455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Countries/Zirnitra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md"
               }
             }
           },
@@ -198,36 +212,36 @@
   },
   "active": "18f3806a32cdace7",
   "lastOpenFiles": [
+    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
+    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+    "Cast/Hannah's Character.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
+    "World Building/Countries/Sirocco Territories.md",
+    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+    "World Building/Countries/Zirnitra.md",
+    "General.md",
     "TODO.md",
     "The Maelstrom.md",
     "Tide Caller's Trident.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Victor Osric.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
-    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
     "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Oakley.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Turmoil.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/The Evangeline.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
     "Maps/ZirnitranOutpost.jpg",
-    "World Building/Countries/Zirnitra.md",
     "World Building/Countries/Zelvahar.md",
     "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "Maps/CannibalIsland.png",
     "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
     "Act 1 - Talking to Coconuts/Locations/Rickety Rope Bridge.md",
-    "World Building/Countries/Pirate Confederacy.md",
-    "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
     "Maps/CavesOfTheMother.jpg",
-    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Maps/CampCannibalMarkup.jpeg",
-    "Act 1 - Talking to Coconuts/Other NPCs/Cannibals.md",
     "Maps/CampCannibal.jpeg",
     "Maps/Cannibal Island.jpg",
     "Maps/Ship.png",

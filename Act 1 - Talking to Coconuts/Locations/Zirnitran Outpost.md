@@ -26,7 +26,8 @@ Rubrack was commanded to stand guard in the room at the base of the stairs. Rubr
 - Use the minotaur statblock for Rubrack: https://2e.aonprd.com/Monsters.aspx?ID=301
 
 ### Alter
-Standing between the stairs is a beautifully carved 15ft tall statue of #TODO. On the dais behind the statue an alter which the vishkanya used to exert control over their undead minions. Breaking this alter will destroy any undead on the island as well as lifting the mist and any other supernatural effects.
+Standing between the stairs is a beautifully carved 15ft tall statue of an ophidian humanoid. This statue is made of dark polished stone with scales that seem to glisten in the dim light. It's eyes are voids of obsidian. The staue lacks eyelids and has a sharp angular jawline. 
+On the dais behind the statue an alter which the vishkanya used to exert control over their undead minions. Breaking this alter will destroy any undead on the island as well as lifting the mist and any other supernatural effects.
 
 [[Irena]] has been studying the runes and murals on the walls of this outpost but mostly here in the innermost chamber. She believes that she is close to unveiling the location of the lost capital city of [[Zirnitra]]. She's content to explain her actions if the PCs have questions. She'd use the opportunity to attempt to charm a couple of them prior to the inevitable conflict.
 - Use the cult leader statblock (tentative) for Irena: https://2e.aonprd.com/NPCs.aspx?ID=930

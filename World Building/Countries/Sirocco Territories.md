@@ -3,7 +3,7 @@
 
 
 ## Economy
-Sirocco is a trade based power. The bazaars in its largest cities are famous throughout the region. The #TODO raider/bandits that seized control of the region saw their initial economic strength through sale of slaves and cactus juice. As they came to power they diversified trade for the sake of stability. The only controlled export from the region are its guns, an invention which initially spread throughout Sirocco's dwarven clans. Artificers found in the regions mountains and cities remain the primary manufacturers of these weapons.
+Sirocco is a trade based power. The bazaars in its largest cities are famous throughout the region. The bandit group known as the Freebooters League that seized control of the region saw their initial economic strength through sale of slaves and cactus juice. As they came to power they diversified trade for the sake of stability. The only controlled export from the region are its guns, an invention which initially spread throughout Sirocco's dwarven clans. Artificers found in the regions mountains and cities remain the primary manufacturers of these weapons.
 
 ## Government
 The raider/bandit gang that came to power in the Sirocco Territories have allowed near anarchic free trade throughout the nation which spreads to its exports as well. The few laws that the gang has implemented are enforced harshly. 
