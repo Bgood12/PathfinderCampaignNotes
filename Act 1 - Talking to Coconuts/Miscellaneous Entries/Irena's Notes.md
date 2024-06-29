@@ -3,4 +3,4 @@ Irena's notes are written in elaborate and archaic phrasing. Requiring a DC 28 o
 Irena's Notes contain
 - The residents of the outpost were exiles of [[Zirnitra]]
 - [[Zirnitra]] is shielded by powerful magical wards
-- The exiles were sent via a teleportation apparatus in #TODO
+- The exiles were sent via a teleportation apparatus in [[Zelvahar]]
