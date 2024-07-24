@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Sirocco Territories.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c387bc5a8fcb1738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cast/Victor Kataga.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Countries/Sirocco Territories.md",
+                "file": "Cast/Victor Kataga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Countries/Sirocco Territories.md",
+                "file": "Cast/Victor Kataga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Countries/Sirocco Territories.md"
+                "file": "Cast/Victor Kataga.md"
               }
             }
           },
@@ -223,11 +235,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18f3806a32cdace7",
+  "active": "c387bc5a8fcb1738",
   "lastOpenFiles": [
-    "TODO.md",
-    "World Building/Countries/Sirocco Territories.md",
+    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
+    "Cast/Victor Kataga.md",
+    "Cast/Mayak.md",
+    "Cast/Leaklan Plateau.md",
+    "Cast/Ima Ental.md",
     "Cast/Hannah's Character.md",
+    "Cast/Eden.md",
+    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "World Building/Countries/Sirocco Territories.md",
+    "TODO.md",
     "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Irena.md",
     "Act 1 - Talking to Coconuts/Castaways/Luca Romano.md",
@@ -244,15 +263,8 @@
     "Act 1 - Talking to Coconuts/Other NPCs/Foínikas.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
     "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Turmoil.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/The Evangeline.md",
-    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
     "Maps/ZirnitranOutpost.jpg",
-    "World Building/Countries/Zelvahar.md",
-    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
     "Maps/CannibalIsland.png",
-    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
     "Maps/CavesOfTheMother.jpg",
     "Maps/CampCannibalMarkup.jpeg",
     "Maps/CampCannibal.jpeg",

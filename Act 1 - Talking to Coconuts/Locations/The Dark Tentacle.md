@@ -15,6 +15,8 @@ Captain's cabin
 - 26 sp
 - 11 gp
 - Assorted jewelry worth 25 gp
+- Wand of False Vitality
+- +1 Potency Armor (Studded leather/leather or decide type based on party need)
 - A log book badly damaged by mold
 	- DC 20 Society check to decipher
 	- Each attempt to decipher takes 8 hours
