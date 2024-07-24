@@ -13,3 +13,6 @@ Her familiar is a weasel which is the symbol of her families house.
 - She had a good friend, Aliyah, but she also has not spoken to her since she left the school.
 - Eden has an older brother who is a wizard that she does occasionally communicate with and I imagine her parents would receive information through him as to her general well-being. Eden does send him letters when she's in a town where that would be an option.
 - She has younger siblings but she does not communicate with them mainly out of guilt for leaving without saying anything.
+
+
+[https://pathbuilder2e.com/launch.html?build=686556](https://pathbuilder2e.com/launch.html?build=686556 "https://pathbuilder2e.com/launch.html?build=686556")
