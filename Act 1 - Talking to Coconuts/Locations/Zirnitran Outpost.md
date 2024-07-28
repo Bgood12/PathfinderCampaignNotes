@@ -33,6 +33,15 @@ On the dais behind the statue an alter which the vishkanya used to exert control
 - Use the cult leader statblock (tentative) for Irena: https://2e.aonprd.com/NPCs.aspx?ID=930
 
 #### Loot
+[[Rubrack the Red]] has a +1 Greataxe
 [[Irena]] carries 18gp on her person as well as a spell casting focus. 
 [[Irena]]'s research notes, transcriptions, etc
 [[Irena's Notes]]
+[[Irena]] carries a scroll case containing the following
+	- 2x Scroll of Augury
+	- Scroll of Translate
+	- 2x Scroll of Heal
+	- 2x Scroll of Restoration
+	- Scroll of Remove Disease
+	- Scroll of Knock
+[[Irena]] also has a spare Potion of Water Breathing on her person

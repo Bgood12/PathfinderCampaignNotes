@@ -6,8 +6,22 @@ When the tide stones are activated a loud thunderclap can be heard, though the v
 
 This cacophony of sounds alerts and greatly angers the [[Displacer Beast]] that has its den nearby, and it comes out to attack. The beast attacked [[Irena]] as well when she activated the stones. She used her mind magics to calm the beast so that she could pass unscathed.
 
+If the [[Displacer Beast]] gets reduced to half of its hit points it retreats to its nest.
+
+The [[Displacer Beast]] keeps a collection of treasures that it has collected in it's next. They are listed in the loot section below.
 
 **Sensory Details:**
 - **Sight:** The stones are covered in lichen and moss, their surfaces worn smooth by centuries of exposure to the elements. 
 - **Sound:** When the stones are activated, a loud thunderclap reverberates through the air, followed by the deafening roar of water rushing out of the nearby bay.
 - **Touch:** The stones are cold and slightly damp to the touch, with a rough, textured surface. The runes feel warmer and tingle slightly under the fingers.
+
+### Loot
+- Sextant of the Night
+- Returning Javelin
+- Reinforcing Buckler (Minor)
+- Jade Cat
+- Silver Salve
+- Cat's Eye Elixir
+- Mesmerizing Opal
+- Feather Token (Bird)
+- Dragon Turtle Scale

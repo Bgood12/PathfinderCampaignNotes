@@ -28,3 +28,7 @@ Use the Priest of Kabriri statblock for Nelizia: https://2e.aonprd.com/Monsters.
 #### Loot
 ##### Turning Room
 [[Captain Oakley]]'s message: He is guilty about the fate of his crew and ship. "Being enthralled by that witch [[Irena]] is no excuse for my weakness. Being deposited here is no less than the fate I deserve. I don't beg forgiveness but I despair that she lives still. If the one reading this is of kind soul seek out whatever I've become then her and end us both. She seemed to have interest in the mountain."
+
+##### Nelizia
+Pendant of the Occult
+Diver's Gloves (Lesser)
