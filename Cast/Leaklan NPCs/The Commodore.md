@@ -1,0 +1,3 @@
+Species: Comic Book Character (human) / Pronouns: he/him / Age: 82
+
+The Commodore is a comic book character in the comic series “The Titanic Adventures of The Commodore and Pals” and is based on a retired adventurer of the same name. He retired many years ago and has been living off the residual checks of his incredibly successful comic book series. The series is very well known in and around [[Illurum]].
