@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Ezkardia.md",
+                "file": "Cast/Yllavyre Enallyna.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "World Building/Countries/Veriduna/Principality of Auravell.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "World Building/Other Regions/The Windswept Plains.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Countries/Veriduna/Principality of Auravell.md",
+                "file": "Cast/Yllavyre Enallyna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Countries/Veriduna/Principality of Auravell.md",
+                "file": "Cast/Yllavyre Enallyna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Countries/Veriduna/Principality of Auravell.md"
+                "file": "Cast/Yllavyre Enallyna.md"
               }
             }
           },
@@ -196,9 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54a1ae7a026328ed",
+  "active": "be8bd21831a65f75",
   "lastOpenFiles": [
     "World Building/Countries/Ezkardia.md",
+    "Cast/Yllavyre Enallyna.md",
     "World Building/Countries/Veriduna/Veriduna.md",
     "World Building/Other Regions/The Windswept Plains.md",
     "World Building/Countries/Veriduna/Principality of Auravell.md",
@@ -226,7 +226,6 @@
     "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
     "Act 1 - Talking to Coconuts/Locations/Dryad Grove.md",
     "Act 1 - Talking to Coconuts/Locations/Pearl Bed.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain Parrish's Hut.md",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CannibalIsland.png",
     "Maps/CavesOfTheMother.jpg",
