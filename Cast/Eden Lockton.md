@@ -6,12 +6,14 @@ Pursuit of knowledge is her primary motivator. She is also somewhat motivated by
 
 Her familiar is a weasel which is the symbol of her families house.
 
+Her father was a wizard who helped the king with something (open to suggestions based on your world's lore) maybe helped in a war or quelled an uprising, and he was rewarded with a noble position. The family has always been wealthy and influential, but the nobility was a gift from the king or Lord or whoever. That is why her parents sent her to magic school and pressed her to be good at magic. It's kinda part of the family legacy and the royalty expects the family to produce powerful children.
+
 #### Relationships
 - A professor named Ozar helped Eden by providing her with access to learning resources in dark magic because he believes all information is neither good or bad, it is neutral. He also defended her at the hearing for her expulsion but ultimately had to back up the decision of the school. She has not contacted him since so as not to get him in trouble.
 - Eden does not have a good relationship with the headmaster of the school.
 - She also has a rivalry with the other student who turned her in. Jade? I am picturing a male character as the student who turned her in. Eden has mostly friendly to frenemy type relationships with others at the school. I would not say she has any outright enemies, although Jade could potentially become an enemy. Or a friend, if he has changed.
 - She had a good friend, Aliyah, but she also has not spoken to her since she left the school.
-- Eden has an older brother who is a wizard that she does occasionally communicate with and I imagine her parents would receive information through him as to her general well-being. Eden does send him letters when she's in a town where that would be an option.
+- Eden has an older brother, named Erick, who is a wizard that she does occasionally communicate with and I imagine her parents would receive information through him as to her general well-being. Eden does send him letters when she's in a town where that would be an option.
 - She has younger siblings but she does not communicate with them mainly out of guilt for leaving without saying anything.
 
 
