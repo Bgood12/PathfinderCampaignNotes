@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd04cf0ce2851665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cast/Yllavyre Enallyna.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2f145e34cdb782a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/Character Arch Ideas.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "6e52bb2bd5265e0f",
+            "id": "bd09e4fb70a36190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tide Caller's Trident.md",
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +34,51 @@
             }
           },
           {
-            "id": "e6d0ca5e530bad14",
+            "id": "b8e7de945b077e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Illurum.md",
+                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95ae0cce99f3efa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a399bfdc12c6ab42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5119ef463a597f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cast/Character Arch Ideas.md",
+                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cast/Character Arch Ideas.md",
+                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cast/Character Arch Ideas.md"
+                "file": "Session Reports/Session 1 - Talking to Coconuts.md"
               }
             }
           },
@@ -196,10 +222,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2f145e34cdb782a",
+  "active": "b8e7de945b077e66",
   "lastOpenFiles": [
-    "Tide Caller's Trident.md",
+    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
+    "Session Reports/Session 1 - Talking to Coconuts.md",
+    "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
+    "Session Reports",
+    "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
+    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
     "Cast/Character Arch Ideas.md",
+    "Tide Caller's Trident.md",
     "Cast/Astoria Grimaldi.md",
     "World Building/Countries/Kardathos.md",
     "World Building/Countries/Illurum.md",
@@ -219,14 +253,7 @@
     "Cast/Leaklan NPCs/Professor Clover.md",
     "Cast/Leaklan NPCs/Joseph (Sephy) Harlow.md",
     "Cast/Leaklan NPCs/Jaq (Jack) Harlow.md",
-    "Cast/Ima Ental.md",
-    "Cast/Mayak.md",
-    "Cast/Victor Kataga.md",
     "Cast/Leaklan NPCs",
-    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
-    "Act 1 - Talking to Coconuts/Castaways/Luca Romano.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 1 - Talking to Coconuts/Locations/Mountain Peak.md",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CannibalIsland.png",
     "Maps/CavesOfTheMother.jpg",
@@ -243,7 +270,6 @@
     "Maps/BesmaraTemple.jpg",
     "World Building/Major Events",
     "World Building/Important NPCs",
-    "Maps/BesmaraTemple.jpg.crdownload",
     "Untitled.canvas"
   ]
 }
