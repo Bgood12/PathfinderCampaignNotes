@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6ef189c5c8bef9",
+        "id": "9fa5e82312dd971c",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f145e34cdb782a",
+            "id": "87551e9a0608dd23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+                "file": "Act 1 - Talking to Coconuts/Castaway Status.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "bd09e4fb70a36190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e7de945b077e66",
+            "id": "ebd485fb97424945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Reports/Session 1 - Talking to Coconuts.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95ae0cce99f3efa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +34,12 @@
             }
           },
           {
-            "id": "a399bfdc12c6ab42",
+            "id": "b6da7a51a2c17d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+                "file": "Act 1 - Talking to Coconuts/Locations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +47,77 @@
             }
           },
           {
-            "id": "b5119ef463a597f7",
+            "id": "f182467db3ab2778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
+                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cee2c1a23a26bdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df54fdfac8d1722c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb81d339de9f7bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1af95d77bf4e3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da96638e8c020c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,16 +261,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8e7de945b077e66",
+  "active": "ebd485fb97424945",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
+    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Act 1 - Talking to Coconuts/Locations.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+    "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Session Reports/Session 1 - Talking to Coconuts.md",
+    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
+    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
     "Act 1 - Talking to Coconuts/Miscellaneous Entries/Captain's Log Book.md",
     "Session Reports",
     "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
-    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
     "Cast/Character Arch Ideas.md",
     "Tide Caller's Trident.md",
     "Cast/Astoria Grimaldi.md",
@@ -246,13 +292,6 @@
     "World Building/Other Regions",
     "World Building/Countries/Veriduna",
     "Cast/Leaklan NPCs/Louis (loo-wee) Plateau.md",
-    "Cast/Leaklan NPCs/Mary Plateau.md",
-    "Cast/Leaklan NPCs/The Commodore.md",
-    "Cast/Leaklan Plateau.md",
-    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
-    "Cast/Leaklan NPCs/Professor Clover.md",
-    "Cast/Leaklan NPCs/Joseph (Sephy) Harlow.md",
-    "Cast/Leaklan NPCs/Jaq (Jack) Harlow.md",
     "Cast/Leaklan NPCs",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CannibalIsland.png",
