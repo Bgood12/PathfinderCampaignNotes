@@ -4,7 +4,7 @@
 | Names             | Hostile | Unfriendly | Indifferent | Friendly | Helpful |
 | ----------------- | ------- | ---------- | ----------- | -------- | ------- |
 | [[Luca Romano]]   |         |            | 1           |          |         |
-| [[Siaku Dolrino]] |         | 1          |             |          |         |
+| [[Siaku Dolrino]] |         |            | 1           |          |         |
 | [[Tatsu]]         |         | 1          |             |          |         |
 | [[Sonja Krieg]]   |         |            | 1           |          |         |
 

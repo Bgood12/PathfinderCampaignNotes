@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa5e82312dd971c",
+        "id": "c871830015ebb20d",
         "type": "tabs",
         "children": [
           {
-            "id": "87551e9a0608dd23",
+            "id": "71726db51497969d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Castaway Status.md",
+                "file": "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,111 +21,19 @@
             }
           },
           {
-            "id": "ebd485fb97424945",
+            "id": "4221a8a8410c235f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6da7a51a2c17d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f182467db3ab2778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cee2c1a23a26bdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df54fdfac8d1722c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb81d339de9f7bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1af95d77bf4e3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da96638e8c020c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
+                "file": "World Building/Countries/Illurum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
+                "file": "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
+                "file": "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Reports/Session 1 - Talking to Coconuts.md"
+                "file": "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md"
               }
             }
           },
@@ -261,9 +169,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebd485fb97424945",
+  "active": "71726db51497969d",
   "lastOpenFiles": [
+    "World Building/Countries/Serikara/Qalithar/Sultanate of Qalithar.md",
+    "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md",
+    "World Building/Countries/Serikara/Qalithar",
+    "World Building/Countries/Serikara/Serikara.md",
+    "World Building/Countries/Serikara/Kharakhai.md",
+    "World Building/Countries/Illurum.md",
+    "World Building/Countries/Pirate Confederacy.md",
+    "World Building/Countries/Balaika.md",
+    "World Building/Countries/Veriduna/Veriduna.md",
+    "World Building/Countries/Ezkardia.md",
+    "Golden Artery.md",
+    "World Building/Countries/Kardathos.md",
+    "World Building/Countries/Serikara",
     "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Session Reports/Session 1 - Talking to Coconuts.md",
     "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
@@ -271,7 +193,6 @@
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
-    "Session Reports/Session 1 - Talking to Coconuts.md",
     "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
     "Act 1 - Talking to Coconuts/Locations/Wreck of The Evangeline.md",
     "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
@@ -279,19 +200,8 @@
     "Session Reports",
     "Act 1 - Talking to Coconuts/Locations/Castaway Beach.md",
     "Cast/Character Arch Ideas.md",
-    "Tide Caller's Trident.md",
-    "Cast/Astoria Grimaldi.md",
-    "World Building/Countries/Kardathos.md",
-    "World Building/Countries/Illurum.md",
-    "Cast/Eden Lockton.md",
-    "Cast/Yllavyre Enallyna.md",
-    "World Building/Countries/Ezkardia.md",
-    "World Building/Countries/Veriduna/Veriduna.md",
-    "World Building/Other Regions/The Windswept Plains.md",
-    "World Building/Countries/Veriduna/Principality of Auravell.md",
     "World Building/Other Regions",
     "World Building/Countries/Veriduna",
-    "Cast/Leaklan NPCs/Louis (loo-wee) Plateau.md",
     "Cast/Leaklan NPCs",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CannibalIsland.png",
@@ -307,8 +217,6 @@
     "Act 2 - TBD",
     "Maps/Cannibal Island A.jpg",
     "Maps/BesmaraTemple.jpg",
-    "World Building/Major Events",
-    "World Building/Important NPCs",
     "Untitled.canvas"
   ]
 }

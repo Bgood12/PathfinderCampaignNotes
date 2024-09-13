@@ -1,0 +1,1 @@
+The Alabaster College of Vital Arts at the Al-Samim Academy of Curatives and Aciurgy'
