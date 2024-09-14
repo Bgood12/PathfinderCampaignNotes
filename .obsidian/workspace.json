@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Reports/Session 2 - G-G-G-Ghost.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f609d62f2d5883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Act 1 - Talking to Coconuts/Castaway Status.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87dbe5a796f97230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Reports/Session 1 - Talking to Coconuts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,19 +73,6 @@
             }
           },
           {
-            "id": "0eadd7efd300af23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3d63cd608e3b763",
             "type": "leaf",
             "state": {
@@ -79,45 +92,6 @@
               "type": "markdown",
               "state": {
                 "file": "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bf3f43f96a6e36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Snare Trap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a50330648300f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Illurum.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0159bc96e6a737f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tide Caller's Trident.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,20 +261,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2713b551d4c6987",
+  "active": "29f609d62f2d5883",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
-    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Session Reports/Session 2 - G-G-G-Ghost.md",
+    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
+    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
+    "Session Reports/Session 1 - Talking to Coconuts.md",
+    "Act 1 - Talking to Coconuts/Castaway Status.md",
+    "Act 1 - Talking to Coconuts/Locations/Predator Dens.md",
     "Act 1 - Talking to Coconuts/Locations/The Crooked Catch.md",
     "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
     "Act 1 - Talking to Coconuts/Locations.md",
     "Act 1 - Talking to Coconuts/Locations/Snare Trap.md",
     "Act 1 - Talking to Coconuts/Locations/Cannibal Ambush.md",
-    "Act 1 - Talking to Coconuts/Locations/Prick Berries.md",
     "Tide Caller's Trident.md",
     "World Building/Countries/Illurum.md",
-    "Act 1 - Talking to Coconuts/Locations/Former Campsites.md",
     "World Building/Countries/Serikara/Qalithar/Al-Samim Academy of Curatives and Aciurgy.md",
     "World Building/Countries/Serikara/Qalithar/Sultanate of Qalithar.md",
     "World Building/Countries/Serikara/Qalithar",
@@ -312,10 +289,8 @@
     "Golden Artery.md",
     "World Building/Countries/Kardathos.md",
     "World Building/Countries/Serikara",
-    "Session Reports/Session 1 - Talking to Coconuts.md",
     "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "Act 1 - Talking to Coconuts/Locations/Beach Comber's Hut.md",
-    "Act 1 - Talking to Coconuts/Locations/Captain's Landfall.md",
     "Session Reports",
     "World Building/Other Regions",
     "World Building/Countries/Veriduna",
