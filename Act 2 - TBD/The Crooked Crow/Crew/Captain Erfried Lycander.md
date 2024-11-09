@@ -1,0 +1,5 @@
+- Husband of [[Captain Vanessa Lycander]]
+- Raided a dragon's hoard with 2 other pirate captains about 10 years ago.
+	- Recovered a tablet that unlocks a treasure hoard
+		- The three made a pact to split the tablet between them and not seek out the treasure until the others were dead; as to avoid greed turning them against each other.
+- 
