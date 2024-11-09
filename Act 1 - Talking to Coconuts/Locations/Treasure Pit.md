@@ -27,11 +27,14 @@ Lacedon stats: https://2e.aonprd.com/Monsters.aspx?ID=1865
 
 #### Treasure
 At the other end of the 'J' shaped shaft lies a waterproof and airtight chest (DC 28 thievery to open with tools). Finding and sharing this treasure with [[Tatsu]] completes his loyalty quest.
-- 200 sp
-- 50 gp
-- 5 pp
+- 225 sp
+- 65 gp
+- 10 pp
 - Silk pouch containing 50gp worth of garnet and amethyst
-- Bejeweled cold-iron (low-grade) starknife (+1 potency rune) worth 75 gp
-- Silver buckler (low-grade)
+- Bejeweled cold-iron (low-grade) corsetknife (+1 potency rune) worth 75 gp
+- Sapling Shield (Minor)
+- Hunter's Bow
+- Aeon Stone (Dusty Rose Prism)
+- Armory Bracelet
 - Scroll of Raise Dead - https://2e.aonprd.com/Spells.aspx?ID=243
 - Other materials if I'm behind on party loot at this time.
