@@ -31,7 +31,7 @@ At the other end of the 'J' shaped shaft lies a waterproof and airtight chest (D
 - 65 gp
 - 10 pp
 - Silk pouch containing 50gp worth of garnet and amethyst
-- Bejeweled cold-iron (low-grade) corsetknife (+1 potency rune) worth 75 gp
+- Cold-iron (low-grade) corsetknife (+1 potency rune)
 - Sapling Shield (Minor)
 - Hunter's Bow
 - Aeon Stone (Dusty Rose Prism)
