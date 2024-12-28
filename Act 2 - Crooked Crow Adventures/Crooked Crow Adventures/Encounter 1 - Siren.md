@@ -16,6 +16,12 @@ The harpy attacks anyone who tries to prevent others from reaching her. She retr
 	- 3rd rank Message spell
 	- Level 7 item
 - ~300gp worth of jewelry and assorted art objects
+	- Gold necklace with peridots (100gp)
+	- Gold and garnet ring (50gp)
+	- Ruby jeweled ivory comb (50gp)
+	- Silver mirror with gilded frame (50gp)
+	- Etched copper ewer (30gp)
+	- Simple silver circlet (20gp)
 
 ### Crew Attitude
 Deal lethal damage to a crew member who has an indifferent or worse opinion of the PCS

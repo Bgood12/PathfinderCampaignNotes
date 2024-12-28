@@ -13,3 +13,9 @@ In the calm, clear waters of the cove, they can see shoals of fish darting aroun
 
 **Loot**
 Among the debris of the captain's quarters—moldy maps, a tarnished sextant, and ruined books—they’ll find the **tablet piece** hidden in an iron box, weighted down with stones. The box has corroded over time, so a bit of prying may be necessary to open it, revealing the stone tablet within, worn but intact.
+
+The body of **Captain Eryss Thornleigh** lies impaled on a piece of splintered wood from the ship's hull. She has on her person...
+- +1 Striking Rapier
+- +1 Striking Dagger
+- +1 Studded Leather Armor
+- Wand of False Vitality

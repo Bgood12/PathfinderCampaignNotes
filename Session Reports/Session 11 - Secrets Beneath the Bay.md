@@ -1,0 +1,13 @@
+Angered at the sudden cacophony of the ritual's conclusion, the spidercat sought to remove the interlopers, also known as the Jibblets. It engaged in skirmish tactics, moving quickly; it would also jaunt short distances. [[Astoria Grimaldi|Stori]] managed to nullify its ability to meld with objects by reading the psychometric resonance of the stones used for the ritual. Eventually [[Leaklen Plateau|Leaklen]] caught the spidercat, which nipped and scratched frantically before finally being brought down.
+
+The Jibblets licked their wounds while [[Astoria Grimaldi|Stori]] arranged to burn the spidercat as a form of after-death care. During this time the JIbblets noticed that the adjacent bay had been drained entirely, and a pair of large stone doors, covered in a sheet of green seaweed, stood open at the bottom. The Jibblets elected to descend to the structure.
+
+Once inside the rather large foyer, [[Leaklen Plateau|Leaklen]] recognized the architecture as Zirnitran; he also shared a bit of information about the last time he was in a structure like this. The structure had debris scattered, several large cracks running through its walls, and chunks of stone missing. [[Astoria Grimaldi|Stori]] found a lever in the foyer that the Jibblets didn't interact with.
+
+The Jibblets advanced into a large room with several runes and murals on the walls. The Jibblets were beset by a two pairs of skeletal archers on balconies in this room. [[Leaklen Plateau|Leaklen]] briefly became a pincushion, while his party whittled away at the skeletal attackers. [[Eden Lockton|Eden]] managed to turn one against its compatriots, which landed the final blow on two of them.
+
+[[Leaklen Plateau|Leaklen]] found the runes in the room to be unintelligible; however, [[Eden Lockton|Eden]] managed to glean meaning from the murals. They depicted a group being run out or exiled from a larger group, the exiles keeping undead slaves, and they seemed to carry a desire to return for some variety of vengeance.
+
+Proceeding further into the structure, the Jibblets found some sleeping quarters, in which [[Eden Lockton|Eden]] found what appeared to be a library book of some kind. 
+
+Later, [[Astoria Grimaldi|Stori]] spotted some hidden false floor traps. which the Jibblets intentionally activated by having [[Leaklen Plateau|Leaklen]] spike rocks onto them, at which point they jumped the traps. [[Yllavyre Enallyna|Ylla]] fumbled his jump at the second trap, falling into a pit and needing to be helped out. At the base of some stairs, the Jibblets spotted one of the rocks that [[Leaklen Plateau|Leaklen]] spiked, along with an imposing muscular figure with matted dark hair and a massive bloodstained axe.

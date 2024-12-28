@@ -1,0 +1,13 @@
+Combat ensued between the Jibblets and [[Rubrack the Red]], with the latter getting in a few solid strikes before being brought down. Following the encounter, [[Astoria Grimaldi|Stori]] picked up and claimed Rubrack's axe. The Jibblets licked their wounds before continuing.
+
+The Jibblets found their way to a central chamber to find [[Irena]] at the top of a 15ft dais. She was somewhat amicable, answering the Jibblets questions and even seeming poised to allow them to leave until [[Leaklen Plateau|Leaklen]] spilled that he would share the location of the [[Zirnitran Outpost]] with others. 
+
+After a brief encounter, [[Irena]] attempted to disengage, fleeing back through the temple. [[Leaklen Plateau|Leaklen]] originally led the pursuit, managing to grab [[Irena]] and began dragging her back after it was *suggested* that he return to inspect her notes. Managing to break free, [[Irena]] ran again, leaping the pit traps before [[Astoria Grimaldi|Stori]] managed to catch up. [[Astoria Grimaldi|Stori]] then bisected [[Irena]] with [[Rubrack the Red|Rubrack's]] greataxe. 
+
+[[Astoria Grimaldi|Stori]] looted [[Irena|Irena's]] body while [[Leaklen Plateau|Leaklen]] inspected [[Irena|Irena's]] notes, with [[Yllavyre Enallyna|Ylla]] returning to join him. From [[Irena|Irena's]] notes, [[Leaklen Plateau|Leaklen]] learned that the outpost's inhabitants were exiles from [[Zirnitra]]; he learned that [[Zirnitra]] itself is/was protected by powerful magical wards and that the exiles were kicked out via a teleportation apparatus located somewhere in [[Zelvahar]].
+
+The party spent the night near the entrance to the outpost. In the morning they checked out the mountain peak. There they took in a breathtaking panoramic view, spotted a few more shipwrecks, and found the carcasses of many animals and humans in the natural crevices of the mountain's peak. [[Yllavyre Enallyna|Ylla]] identified large feline teeth marks in many of the bones. The party also spotted that the lighthouse was on and took that as an indication to return. 
+
+The party spent the better part of two days traveling back to camp. Once there, they filled in the NPCs on what had happened and were informed that they had gotten the lighthouse working shortly after the Jibblets left but had initially refrained from turning it on until the waves had calmed down. The Jibblets and company debated their next steps toward getting off of the island.
+
+The following night, [[Mayak]] spotted a ship approaching; he immediately woke the rest of the castaways, and [[Leaklen Plateau|Leaklen]] signaled the ship clearly with the lighthouse. The castaways decided to jog out to the nearest point of the shore, signal again, and began swimming towards the ship.

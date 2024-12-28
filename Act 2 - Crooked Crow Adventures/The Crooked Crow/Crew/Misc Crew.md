@@ -2,13 +2,13 @@
 | -------------- | -------------- | ------- | ---------- | ----------- | -------- | ------- |
 | Quartermaster  | Dara Halford   |         |            | 1           |          |         |
 | Master-at-arms | Garrick Volund |         | 1          |             |          |         |
-| Navigator      | Nyla Demaris   |         |            | 1           |          |         |
+| Navigator      | Nyla Demaris   |         |            | 0           | 0        | 1       |
 | Doctor         | Doc Miri       |         |            |             | 1        |         |
 | Carpenter      | Silas Quin     |         |            | 1           |          |         |
 | Cook           | Olga Bronson   |         |            | 1           |          |         |
-| Lookout        | Tevin Morro    |         |            |             |          |         |
+| Lookout        | Tevin Morro    |         |            | 0           | 1        |         |
 | Bosun          | Arn Torvald    |         | 1          |             |          |         |
-| Rigger         | Quinn Jossel   |         |            | 1           |          |         |
+| Rigger         | Quinn Jossel   |         |            | 0           | 1        |         |
 
 #### Quartermaster - Dara "Deadeye" Halford (Female, Human)
 Dara is a grizzled, scarred veteran with one milky, blind eye, the result of a shipboard mutiny in her youth. Despite her intimidating appearance, she’s calm, cool-headed, and often the voice of reason aboard the ship. She keeps careful watch over the ship’s stores and is the one who settles disputes among the crew, making her someone who values fairness above all else.
