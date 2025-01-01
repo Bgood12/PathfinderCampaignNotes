@@ -4,40 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc640e742de1f3a",
+        "id": "40bafbda8a0d7d93",
         "type": "tabs",
         "children": [
           {
-            "id": "7953e2578154c915",
+            "id": "087b8073f30412ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Pirate Confederacy/Ports & Towns/Bloodwake Harbor.md",
+                "file": "Act 2 - TBD/The Crooked Crow/Crew/Captain Vanessa Lycander.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloodwake Harbor"
+              "title": "Captain Vanessa Lycander"
             }
           },
           {
-            "id": "b99a7b762d519c47",
+            "id": "4855b44d0eb92efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Pirate Confederacy/NPCs/'Admiral' Nylora Monteiro.md",
+                "file": "Act 2 - TBD/Brightwater/Brightwater.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "'Admiral' Nylora Monteiro"
+              "title": "Brightwater"
+            }
+          },
+          {
+            "id": "1a5386637990dfd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lyra Stormwind"
+            }
+          },
+          {
+            "id": "61f12144943d2dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freedom Square"
+            }
+          },
+          {
+            "id": "a3e11e8828ad9afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Lucky Mug"
+            }
+          },
+          {
+            "id": "74828ba3d6f5ca41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cayden's Revelry"
+            }
+          },
+          {
+            "id": "77779f9f37e2d58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Irena's Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "irena's no",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,10 +265,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7953e2578154c915",
+  "active": "4855b44d0eb92efc",
   "lastOpenFiles": [
-    "World Building/Countries/Pirate Confederacy/NPCs/'Admiral' Nylora Monteiro.md",
+    "Act 2 - TBD/Brightwater/Locations/Freedom Square.md",
+    "Act 2 - TBD/Brightwater/Cayden's Revelry.md",
+    "Act 2 - TBD/Brightwater/NPCs/Lyra Stormwind.md",
+    "Act 2 - TBD/Brightwater/Brightwater.md",
+    "Act 2 - TBD/Brightwater/Locations/The Lucky Mug.md",
+    "Act 1 - Talking to Coconuts/Miscellaneous Entries/Irena's Notes.md",
+    "Act 2 - TBD/The Crooked Crow/Crew/Misc Crew.md",
+    "Act 2 - TBD/The Crooked Crow/Crew/Captain Vanessa Lycander.md",
+    "Act 2 - TBD/The Crooked Crow/The Crooked Crow.md",
+    "Act 2 - TBD/The Crooked Crow/Crew/Jaxon Marek.md",
+    "Act 2 - TBD/The Crooked Crow/Crew/Finnick 'Boomer' Blackbarrel.md",
+    "Act 2 - TBD/The Crooked Crow/Crew/Captain Erfried Lycander.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
+    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
+    "Act 1 - Talking to Coconuts/Locations/Camp Cannibal.md",
+    "Cast/Yllavyre Enallyna.md",
+    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
+    "Cast/Character Arch Ideas.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "World Building/Countries/Pirate Confederacy/Ports & Towns/Bloodwake Harbor.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/'Admiral' Nylora Monteiro.md",
     "World Building/Countries/Pirate Confederacy/Ports & Towns",
     "World Building/Countries/Pirate Confederacy/Pirate Confederacy.md",
     "World Building/Countries/Pirate Confederacy/NPCs",
@@ -201,25 +296,6 @@
     "Session Reports/Session 9 - Floogyoobalie.md",
     "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
     "Act 1 - Talking to Coconuts/Castaway Status.md",
-    "Act 1 - Talking to Coconuts/Locations/Tide Stones.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Displacer Beast.md",
-    "Act 1 - Talking to Coconuts/Castaways/Tatsu.md",
-    "Cast/Yllavyre Enallyna.md",
-    "Cast/Character Arch Ideas.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again/Ruins.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again/Tribal Leader.md",
-    "Session Reports/Session 8 - A Death in the Jibblets.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again/Island Tribe.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again/Encounter - The Beach.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again/Ebbclaw Isle.md",
-    "Act 1 - Talking to Coconuts/Locations/Zirnitran Outpost.md",
-    "Act 1 - Talking to Coconuts/Locations/Caves of the Mother.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Nelizia.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Captain Perry Kieran.md",
-    "Cast/Astoria Grimaldi.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Encounter 2 - The Siren's Call.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Encounter 3 - TODO.md",
-    "Act 2 - TBD/Crooked Crow Adventures/Encounter 1 - Siren.md",
     "Act 2 - TBD/Crooked Crow Adventures/Encounter 2 - TODO",
     "Act 2 - TBD/Crooked Crow Adventures/Event - Castaway... Again",
     "Act 2 - TBD/Crooked Crow Adventures/Event - The Hanged Man",
