@@ -9,7 +9,7 @@ So Ylla spent about two months wandering aimlessly, trying to process the trauma
 He is from a circle of Storm Order druids. Luceran taught Ylla everything he knows about medicine, religion, survival, and nature.
 **Ylla’s mother: Miaphyra Dreymarra.** 
 Miaphyra Dreymarra. She was a knight from Ezkardia. She met Luceran while he was in the city during a festival and they fell in love there. They got married and eventually had Ylla. Miaphyra taught Ylla about acrobatics, athletics, and weapon-fighting.
-**Ylla’s older brother: Sylro Enallyna.** 
+**Ylla’s older brother: [[The Windrider|Sylro Enallyna]].** 
 Ylla was 13 years old when Sylro was 21. At 21 years old, Sylro left the circle of the druids on bad terms. Sylro was always disinterested in being a druid and left to pursue his own path. Ylla was told that Sylro was summoned by the high council of druids to work in a different circle. But Ylla could tell that Sylro probably quit druidic practices altogether. 
 **Ylla’s childhood best friend: Reyrieth.** 
 She was also a druid of the storm order. Ylla was always introverted and not inclined to draw attention to himself, especially with the drama always around his brother. Reyrieth, the extrovert, helped make Ylla feel like an individual. They did normal druid childhood stuff together like play games and practice cantrips.

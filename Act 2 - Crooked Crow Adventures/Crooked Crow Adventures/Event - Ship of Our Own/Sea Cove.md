@@ -20,9 +20,14 @@ The ship is massive and old, with tattered rigging and waterlogged boards that c
 
 **Loot**
 - 2x Jeweled golden necklaces (25gp each)(worn by Captain Lycander)
+- Gold and garnet ring (50gp)
 - 3x Masterwork paintings destroyed by prolonged exposure to moisture (50gp each - now worthless)
 - 20x bottles of quality liquor (primarily rum) (40gp in total)
 - Lockbox with 60gp
 - Box of fine cigars (50gp)
-- Bag of semiprecious gems (10gp)
-- 3x MAGIC ITEMS #TODO 
+- Bag of greater semiprecious gems (120gp)
+- Staff of Protection (6th): https://2e.aonprd.com/Equipment.aspx?ID=3045
+- Arboreal Boots (5th): https://2e.aonprd.com/Equipment.aspx?ID=3056
+- Ring of Minor Arcana (5th): https://2e.aonprd.com/Equipment.aspx?ID=478
+- Boots of Free Running (Lesser) (5th): https://2e.aonprd.com/Equipment.aspx?ID=2456
+- Healer's Gloves (4th):https://2e.aonprd.com/Equipment.aspx?ID=3087

@@ -4,85 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc640e742de1f3a",
+        "id": "e5dc77b1cf154ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "4ef64bfcff8bf82a",
+            "id": "754da7f1032e1bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Ship of Our Own/Sea Cove.md",
+                "file": "Act 5 - A Spy Among Us/A Lady's Request.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Sea Cove"
+              "title": "A Lady's Request"
             }
           },
           {
-            "id": "cfb7f53c41c195c2",
+            "id": "dc6c40622e687dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
+                "file": "Act 5 - A Spy Among Us/Apothecary (Essential Embrocations).md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Shipwrecks"
+              "title": "Apothecary (Essential Embrocations)"
             }
           },
           {
-            "id": "d649da6ba9975faa",
+            "id": "90455590588f635b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Captain Vanessa Lycander.md",
-                "mode": "source",
+                "file": "Session Reports/Session 29 - Essential Embrocations Pt2.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Captain Vanessa Lycander"
+              "title": "Session 29 - Essential Embrocations Pt2"
             }
           },
           {
-            "id": "ba870bcc095ce684",
+            "id": "232f34014a5300f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Misc Crew.md",
+                "file": "Session Reports/Session 28 - Essential Embrocations.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Misc Crew"
+              "title": "Session 28 - Essential Embrocations"
             }
           },
           {
-            "id": "37e688e117403b7a",
+            "id": "cc2cd11f732a3cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Finnick 'Boomer' Blackbarrel.md",
+                "file": "Act 5 - A Spy Among Us/A Spy Amongst Us.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Finnick 'Boomer' Blackbarrel"
+              "title": "A Spy Amongst Us"
+            }
+          },
+          {
+            "id": "b0e74cb97cd469e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Countries/Pirate Confederacy/Pirate Council.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pirate Council"
+            }
+          },
+          {
+            "id": "8212a26735732a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 5 - A Spy Among Us/The Council.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Council"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +195,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -138,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "c483ead5c2d56448",
@@ -234,44 +329,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8bd21831a65f75",
+  "active": "90455590588f635b",
   "lastOpenFiles": [
-    "Act 1 - Talking to Coconuts/Locations/Shipwrecks.md",
-    "Act 1 - Talking to Coconuts/Locations.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Ship of Our Own/Sea Cove.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Ship of Our Own/Ogre Base.md",
-    "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Finnick 'Boomer' Blackbarrel.md",
-    "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Misc Crew.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - The Hanged Man/Waveguard Keep.md",
-    "Act 2 - Crooked Crow Adventures/Brightwater/Cayden's Revelry.md",
+    "Act 5 - A Spy Among Us/Apothecary (Essential Embrocations).md",
+    "Session Reports/Session 29 - Essential Embrocations Pt2.md",
+    "Act 5 - A Spy Among Us/A Spy Amongst Us.md",
+    "Session Reports/Session 28 - Essential Embrocations.md",
+    "World Building/Countries/Veriduna/Velgrana.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/'Admiral' Nylora Monteiro.md",
+    "Act 5 - A Spy Among Us/The Council.md",
+    "Act 5 - A Spy Among Us/A Lady's Request.md",
+    "Session Reports/Session 26 - A Lady's Request.md",
+    "World Building/Countries/Pirate Confederacy/Pirate Council.md",
+    "Session Reports/Session 27 - House of Huus.md",
+    "World Building/Countries/Pirate Confederacy/Ports & Towns/Bloodwake Harbor.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/Pirate King - Vorgash Thrask.md",
+    "Session Reports/Session 25 - New Champion's Crowned.md",
+    "Act 5 - A Spy Among Us/Untitled",
+    "World Building/Countries/Pirate Confederacy/NPCs/Theodora 'Thea' Varko.md",
+    "World Building/Countries/Veriduna/Veriduna.md",
+    "Act 4 - The Maelstrom's Regatta/Race Ships.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/Captain Barthas Redmane.md",
+    "World Building/Other Regions/The Windswept Plains.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/The Windrider.md",
+    "Cast/Yllavyre Enallyna.md",
+    "World Building/Countries/Pirate Confederacy/Ports & Towns/Stormhaven.md",
+    "World Building/Countries/Pirate Confederacy/NPCs/Emberwake.md",
+    "Session Reports/Session 24 -The Maelstrom Regatta.md",
+    "Act 4 - The Maelstrom's Regatta/The Regatta.md",
+    "World Building/Countries/Pirate Confederacy/Ports & Towns/Akh-Telkar.md",
+    "Act 5 - A Spy Among Us",
+    "Act 4 - The Maelstrom's Regatta",
+    "Act 3 - Gorilla City",
+    "Act 2.5 - Illuran Interlude",
     "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Ship of Our Own",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Encounter 3 - Living Storm.md",
-    "Session Reports/Session 14 - Legend of the Glamshark.md",
-    "Act 1 - Talking to Coconuts/Castaways/Siaku Dolrino.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Encounter 1 - Siren.md",
-    "Session Reports/Session 13 - Cayden's Revelry.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Encounter 2 - The Siren's Call.md",
-    "Act 2 - Crooked Crow Adventures/The Crooked Crow/Crew/Captain Vanessa Lycander.md",
-    "Act 2 - Crooked Crow Adventures/Brightwater/Brightwater.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again/Encounter - The Beach.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again/Ebbclaw Isle.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again/Island Tribe.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again/Tribal Leader.md",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again/Ruins.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
-    "Act 1 - Talking to Coconuts/Locations/The Dark Tentacle.md",
-    "Act 2 - Crooked Crow Adventures/Brightwater/NPCs/Lyra Stormwind.md",
-    "Act 2 - Crooked Crow Adventures/Brightwater/NPCs/Father Jacob Marlowe.md",
-    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
     "World Building/Countries/Pirate Confederacy/Ports & Towns",
     "World Building/Countries/Pirate Confederacy/NPCs",
     "World Building/Countries/Pirate Confederacy",
     "Act 2 - TBD/Crooked Crow Adventures/Encounter 2 - TODO",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - Castaway... Again",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures/Event - The Hanged Man",
-    "Act 2 - TBD/Crooked Crow Adventures/Event - The Siren's Call",
-    "Act 2 - Crooked Crow Adventures/Crooked Crow Adventures",
-    "Act 2 - TBD/Crooked Crow Adventures/Encounter 1 - Siren's Call",
     "Maps/CannibalIsland.png",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CavesOfTheMother.jpg",

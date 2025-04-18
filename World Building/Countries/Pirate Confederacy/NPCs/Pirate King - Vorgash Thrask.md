@@ -1,0 +1,12 @@
+Grand Inquisitor Statblock (Replace starknife with a gun):
+#### Appearance
+Vorgash Thrask makes a towering figure. His frame is broad and heavily muscled, forged by years of battle and tempered by an iron will. His left tusk is broken, replaced with a gleaming gold replacement. His jaw is reinforced with steel, a relic of an old mutiny that left his face shattered but his grip on power unbroken. The faint clang of metal can be heard when he clenches his teeth, an unsettling sound that adds to his already fearsome presence. His piercing yellow eyes scrutiniz every word spoken in his presence.
+
+Unlike most pirates, who favor mobility, Vorgash wears a captain’s coat over a full suit of blackened plate mail, its surface scarred by blades, bullets, and shrapnel. His massive cleaver-like cutlass rests at his hip, the blade worn and pitted from countless battles, its wicked edge kept sharp enough to shear through flesh and bone with a single swing. A finely crafted pistol is strapped to his waist, a weapon of both practicality and status, its polished barrel a stark contrast to the brutal simplicity of his blade.
+
+#### Personality
+Vorgash trusts no one, save for himself. He is paranoid to his core, convinced that every pirate beneath his banner is either loyal or plotting against him. His inner circle is small, composed only of those who have survived his suspicions long enough to prove their worth - and even they walk a razor-thin line between trusted ally and imminent execution. He speaks little, watching and listening instead, his piercing yellow eyes scrutinizing every word spoken in his presence.
+
+Egotistical and narcissistic, Vorgash sees himself as more than just a king - he is piracy itself, the storm that cannot be tamed. The sea bends to his will, and those who sail upon it do so only because he allows it. He disdains diplomacy, viewing it as a crutch for the weak. Strength is the only currency he respects, and he ensures that all who meet him understand that quickly. His rule is absolute, and challenges to his authority are met with swift and brutal retribution.
+
+Despite his iron grip, Vorgash is not reckless. His cunning is as sharp as his blade, and he has survived not just through brute force but through ruthless intelligence. He cultivates fear as a tool, ensuring that even those who despise him dare not act against him. The Pirate Council may think themselves his equals, but in his eyes, they are just another group of schemers waiting to be crushed beneath his boot.

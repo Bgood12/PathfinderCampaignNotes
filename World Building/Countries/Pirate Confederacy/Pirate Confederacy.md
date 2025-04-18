@@ -1,5 +1,5 @@
 ### Government
-The confederacy operates under a loose yet effective leadership structure. The Pirate Council, composed of influential pirate captains, convenes periodically to discuss matters of common interest, resolve disputes, and plan strategic raids. However, ultimate authority rests with the [[Pirate King]], a position earned through notoriety, prowess, and usually killing your predecessor.
+The confederacy operates under a loose yet effective leadership structure. The Pirate Council, composed of influential pirate captains, convenes periodically to discuss matters of common interest, resolve disputes, and plan strategic raids. However, ultimate authority rests with the [[Pirate King - Vorgash Thrask]], a position earned through notoriety, prowess, and usually killing your predecessor.
 
 ### Economy:
 The pirate confederacy thrives on plunder and trade. Raiding merchant vessels, coastal towns, and rival pirate crews, they amass wealth in gold, jewels, and valuable artifacts. Stolen goods are traded within the Haven or sold discreetly in ports by underworld contacts. Black markets in the confederacy facilitate trade, allowing pirates to acquire specialized gear and information.

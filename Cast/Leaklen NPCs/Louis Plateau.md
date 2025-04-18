@@ -1,3 +1,4 @@
+Louis (loo-wee) Plateau
 Species: Human / Pronouns: he/him / Age: 49
 
 Basic traits: Reserved, Rational, Calm, Studious

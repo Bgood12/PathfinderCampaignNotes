@@ -1,7 +1,8 @@
 Illurum from Illinois + aurum (latin for gold)
 AKA Fantasy Chicago
 
-Illurum, the amalgamation of opportunity and innovation, stands as a beacon in a world on the cusp of an industrial revolution. A fantasy counterpart to Chicago, this bustling metropolis thrives at the heart of numerous trade routes, its foundations rooted in commerce, bustling markets, and a forward-thinking economy.
+Illurum, the amalgamation of opportunity and innovation, stands as a beacon in a world on the cusp of an industrial revolution. This bustling metropolis thrives at the heart of numerous trade routes, its foundations rooted in commerce, bustling markets, and a forward-thinking economy.
+llurum is built along a vast river delta that spills into a deep natural harbor, allowing massive merchant fleetsto dock with ease. The city itself is a labyrinth of bridges, canals, towering buildings, and industrial districts, with smokestacks spewing the fumes of a rising industrial economy.
 
 ## Economy
 Illurum enjoys a tactical position in the middle of countless trade routes as such the city's wealth is driven by trade, so the city's policies tend to be favorable to commerce. The city generally has light taxes, though it does enforce a modest tax on foreign merchants in the name of protectionism. Illurum also charges a docking fee and fees for access to public infrastructure. This combination is generally sufficient for the city's monetary needs.

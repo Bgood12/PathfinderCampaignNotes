@@ -1,3 +1,3 @@
 Species: Elf / Pronouns he/him / Age: Unknown
 
-Not much is known about the strange scholar. He claims to be a researcher from a far off land with knowledge that the Lost City is real, but no one has been able to verify his claims. He has a scroll which contained the location of an island he thought could lead to more answers, but needed Louis’ help to decipher the code. [[Louis (loo-wee) Plateau|Louis]] begrudgingly helped and the writing was revealed to be coordinates to the island Clover spoke about.
+Not much is known about the strange scholar. He claims to be a researcher from a far off land with knowledge that the Lost City is real, but no one has been able to verify his claims. He has a scroll which contained the location of an island he thought could lead to more answers, but needed Louis’ help to decipher the code. [[Louis Plateau|Louis]] begrudgingly helped and the writing was revealed to be coordinates to the island Clover spoke about.

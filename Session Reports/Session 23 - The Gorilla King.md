@@ -1,0 +1,7 @@
+During the Jibblets' trek through the jungle, one night [[Yllavyre Enallyna|Ylla]] alerted the party to a group of humans that he spotted approaching while he was on watch. [[Astoria Grimaldi|Stori]] climbed a tree while staying out of sight of the approaching group. Upon being called out, the arrivals said that the Jibblets were not welcome here and that they should turn back, though the Jibblets eventually convinced them to leave.
+
+As they traveled further through the jungle, the Jibblets heard increasingly cacophonous monkey screeches and cries. [[Yllavyre Enallyna|Ylla]] spoke to a monkey and learned about the Gorilla King in some structure ahead. The Jibblets assumed that this was the precursor ruins that they were looking for. 
+
+After their trek through the jungle, the Jibblets came upon a ziggurat structure that seemed to be of [[Zirnitra|Zirnitran]] architecture. There they found several monkeys and gorillas. [[Yllavyre Enallyna|Ylla]] hatched a plan to construct a banana hat and dance so that the monkeys would grant him an audience with their leader. Instead, they threw debris at him. 
+
+The Jibblets fought through the apes. Shortly after arriving at the base of the ziggurat, the Gorilla King made himself known, flattening [[Leaklen Plateau|Leaklen]]. With [[Astoria Grimaldi|Stori]] using briny seawater to blind the large gorilla, the remaining Jibblets managed to cut him down relatively swiftly. They then began to triage their wounds.

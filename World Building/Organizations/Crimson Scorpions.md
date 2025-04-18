@@ -1,1 +1,5 @@
-Group of assassins
+A notorious mercenary company the Crimson Scorpions greatly prize secrecy known for their deadly efficiency and their signature full-face masks that make it nearly impossible to distinguish one member from another. Their anonymity is further preserved by encouraging outsiders to wield their signature Kalis swords.
+
+The Scorpions operate on a strict contract system—they fight for the highest bidder, but they do not break their word once paid. Their neutrality in larger conflicts is what allows them to operate freely, as every major power would rather hire them than try to wipe them out.
+
+Even within Akh-Telkar, little is known about their leadership. Their operations are handled through intermediaries, shadowy figures who never reveal more than necessary. It is unclear if the Scorpions have a singular leader, a council, or if they operate independently.
