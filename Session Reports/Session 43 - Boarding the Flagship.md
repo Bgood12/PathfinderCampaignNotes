@@ -1,0 +1,5 @@
+[[Yllavyre Enallyna|Ylla]] managed to dispel the chain affixing the anchor to their ship, and [[Mayak]] tossed it overboard. While the Jibblets licked their wounds, they caught up to the fleets now engaged in battle.
+
+The Jibblets' allies handled the [[Veriduna|Veridunan]] fleet handily, even after the reinforcements arrived, which had previously been smuggled to [[Captain Barthas Redmane|Redmane]]. With the bulk of the enemy vessels disabled or sunk, [[The Howling Jib]] closed the distance to the [[Veriduna|Veridunan]] flagship. Their crew grappled the opposing vessel and pulled the two ships together. [[Yllavyre Enallyna|Ylla]] kicked off the battle with the rival admiral and company with a Chain Lightning, while [[Mayak]] grounded out the mirrored strike. 
+
+Most of the Jibblets crossed to the other ship, with [[Leaklen Plateau|Leaklen]] crawling through a window into the captain's quarters and rigging a blackpowder keg to explode beneath [[Drusilla Kasa]], and her bodyguard. Once the explosion went off, [[Leaklen Plateau|Leaklen]] found himself face-to-face with the duo and called for help.

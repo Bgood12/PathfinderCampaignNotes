@@ -3,10 +3,10 @@ King: [[Pirate King - Vorgash Thrask]]
 
 Members:
 - [[Theodora 'Thea' Varko]]
-	- Pragmatic, forward thinking, charasmatic
+	- Pragmatic, forward thinking, charismatic
 - [['Admiral' Nylora Monteiro]]
 	- Tactical, calculated, distrustful of [[Veriduna]]
-- [[The Windrider]]
+- [[World Building/Countries/Pirate Confederacy (Avarian Archipelago)/NPCs/The Windrider]]
 	- Survival of the fittest, no nonsense, not one for politics
 - Saraya Varn
 	- Half-orc, wears black gloves

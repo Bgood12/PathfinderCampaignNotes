@@ -13,12 +13,14 @@ After [[Queen Deodora Kasa]]'s reign ended after 25 years Veriduna has experienc
 ### Government
 Head of State: [[Queen Deodora Kasa II]]
 A configuration of noble houses that were willing to participate in devil worship make up the government of Veriduna. It's rumored that the noble houses continue making deals with devils for extra power. Those that do not follow the state religion keep it to themselves for fear of their bloodline being eradicated.
+Infernal witnesses (bound imps) surveil government buildings, market squares, and temples while invisible.
 
 ### State Religion
-Devil worship is the state religion of Veriduna. This came as a result of the deal made by [[Queen Deodora Kasa]] to end the [[Veridunan Civil War]].
+Devil worship is the state religion of Veriduna. This came as a result of the deal made by [[Queen Deodora Kasa]] to end the [[Veridunan Civil War]]. Veriduna has codified devil worship. Citizens attend weekly Rites of Binding.
 
 ### Culture
-There is absolute order in Veridunan society with no room allowed for dissent. A sense of nationalism is all but enforced as neighbors are incentivized to turn each other in for promises of wealth and prestige. 
+There is absolute order in Veridunan society with no room allowed for dissent. Obedience is a near sacred civic virtue. A sense of nationalism is all but enforced as neighbors are incentivized to turn each other in for promises of wealth and prestige. 
+The state promotes the idea of 'cultural purity' glorifying those with [[Veriduna|Veridunan]] bloodlines, while vilifying outside cultures and languages. Art forms are strictly censored.Only state sanctioned artists are allowed to perform publically.
 
 ### Military
 Veriduna's military stands as a formidable force, boasting a combination of humanoid troops and infernal legions. Their engagement with devilish forces amplifies their might and ferocity.

@@ -1,0 +1,11 @@
+While still in [[Stormhaven]], [[Astoria Grimaldi|Stori]] had a message sent to [[Mivalis]]. [[Astoria Grimaldi|Stori]] mentioned that she had a lead, provided the name of [[Captain Barthas Redmane|Redmane's]] Isle, and instructed [[Mivalis]] to come looking if she didn't follow up within a week. A retainer of [[Theodora 'Thea' Varko|Thea's]] also delivered a wooden bird totem to [[The Howling Jib]], saying that it knew her ship.
+
+The Jibblets sailed for [[Redmane's Fortress]], electing to take an overland route into the fort under invisibility provided by [[Eden Lockton|Eden]]. While they did this, their ships sailed around the island to create a small diversion.
+
+The Jibblets scaled the smaller outer wall, then took a ladder to the fort's main roof. Prior to alerting the guards, [[Astoria Grimaldi|Stori]] took one down silently, and [[Leaklen Plateau|Leaklen]] dismantled their alarm gong. Following that, fighting broke out. [[Leaklen Plateau|Leaklen]] pursued an archer who ran downstairs on foot and was in turn pursued by another guard himself. He managed to take them down on the second and first floors, respectively, but not before one pounded on a wall.
+
+The rest of the Jibblets caught up, and [[Astoria Grimaldi|Stori]] managed to convince the guards alerted by the pounding that she had just dropped their weapon and that there was no issue. The Jibblets stacked the corpses on the roof and sought out [[Captain Barthas Redmane|Redmane]]. 
+
+Both entrances to [[Captain Barthas Redmane|Redmane's]] chambers were guarded by a flaming devil, but [[Astoria Grimaldi|Stori]] and a few other Jibblets made their way to a pair of windows overlooking the courtyard. [[Astoria Grimaldi|Stori]] was able to peer into one and saw some more flames flickering through the crack under the bathroom door. She then climbed onto [[Mayak|Mayak's]] shoulders and made her way through the other window into [[Captain Barthas Redmane|Redmane's]] bedchamber, where he was passed out and fully clothed. 
+
+[[Astoria Grimaldi|Stori]] managed to restrain [[Captain Barthas Redmane|Redmane]], while outside [[Yllavyre Enallyna|Ylla]] got spotted by one of the flaming devils.

@@ -14,3 +14,18 @@
 - A branch of [[House Kasa]] from [[Veriduna]], wind up capturing [[Captain Barthas Redmane]] during one of his many acts of piracy. They recognize the trident’s value and take it for themselves intending to use it to conquer the [[Pirate Confederacy]] and reclaim their lost colony of [[Balaika]].
 
 The trident itself has a design reminiscent of coral and can exert control over the wind and waves.
+
+
++3 Greater Striking High-Grade Orichalcum Trident (18)
+	Quickstrike Rune (16)
+
+	While wielding this trident you gain resistance 10 to cold and electric damage.
+	
+	Activate 10 minutes (command, envision, Interact); Frequency once per week; You create the effects of a successful control weather ritual.
+
+
+Ideas
+	Resistance 10 to cold and electric damage while wielding the trident
+	Constant effect of water walk
+	Constant effect of water breathing
+	Gain a swim speed equal to your walking speed

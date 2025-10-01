@@ -1,0 +1,11 @@
+The Jibbets returned to [[Stormhaven]], where they encountered [[Luca & Sonja]]. They caught up briefly and interacted with Bregonia, [[Sonja Krieg|Sonja's]] pet pterodon, which had recently hatched, before sending the duo to find [[Thea Varko]] afterward. During the conversation, [[Luca Romano|Luca]] mentioned that she had reached out to [[Siaku & Tatsu]] - the former responding that he'd 'talk to the quartermaster about getting some trade manifests written up.' [[Leaklen Plateau|Leaklen]] also found [[Vessa Treen]], former first mate of [[Kaelen Duskmere]], in a tavern and convinced her to join. She mentioned looking into some favors that people still owed Kaelen. [[Leaklen Plateau|Leaklen]] also received a message from his aunt that she'd found her war hat.
+
+After spending a few days in [[Stormhaven]] shopping and upgrading their equipment, the Jibblets were approached by a well-dressed gentleman near their ship. He mentioned that his captain had a mutually beneficial offer for them and handed over a small wooden box with some platinum coins as a show of good faith.
+
+The Jibblets decided to inquire and found [['Admiral' Nylora Monteiro]] on board her flagship. She wanted the Jibblets to remove some propagandists that had it out for her and offered a warfleet of the best-trained sailors in the isles on loan in recompense. So, the Jibblets set out for [[Bloodwake Harbor]] and the tea shop that had been indicated.
+
+The Jibblets arrived at the quiet tea shop and entered. [[Astoria Grimaldi|Stori]] spoke to the woman behind the counter and ordered a cup of tea while trying to get her to spill information in casual conversation. While this transpired, [[Mayak]] found a secret room behind a bookcase, pushed it open, and dragged a halfling man out to interrogate. [[Eden Lockton|Eden]] broke down the door to the back office, finding who appeared to be the boss of the propagandist ring. 
+
+Shortly thereafter the situation devolved to violence. The Jibblets made short work of the propagandists. They [[Mayak]] slayed the boss, [[Leaklen Plateau|Leaklen]] chased down the fleeing halfling, and the other propagandist surrendered.
+
+The Jibblets then convinced the surviving propagandists to make negative propaganda about [[Pirate King - Vorgash Thrask|The Pirate King]] and positive propaganda about [[The Admiral]].

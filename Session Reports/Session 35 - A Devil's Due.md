@@ -1,0 +1,9 @@
+[[Eden Lockton|Eden]] moved to secure the room, affixing an immovable rod she found in place in front of the door. [[Astoria Grimaldi|Stori]] began interrogating [[Captain Barthas Redmane|Redmane]], while combat started up outside.
+
+While [[Captain Barthas Redmane|Redmane]] was under restraint, [[Astoria Grimaldi|Stori]] managed to extract significant information from him. He shared that he encountered the [[Veriduna|Veridunans]] in unfavorable circumstances and that he bartered the trident for his life and a governorship of the isles once they're made into a [[Veriduna|Veridunan]] colony. He also shared that the elf that was previously with him was likely on his ship at present. He also said that he couldn't call off his bodyguards, as they serve only the contract.
+
+Meanwhile, outside, the remaining Jibblets fought with [[Captain Barthas Redmane|Redmane's]] bodyguards, which [[Astoria Grimaldi|Stori]] had identified as Erinys, fury devils. [[Yllavyre Enallyna|Ylla]] zapped one repeatedly with lightning before retreating inside with [[Mayak]] to negate their aerial advantage. [[Leaklen Plateau|Leaklen]] led two on a chase around the fortress to keep them away from his fellows. He managed to ambush the one that [[Yllavyre Enallyna|Ylla]] had zapped, killing her.
+
+In his chamber, [[Captain Barthas Redmane|Redmane]] had managed to break free of his restraints and started fighting back, though it quickly went south for him. In a last-ditch effort, he tackled [[Eden Lockton|Eden]] through the window, but [[Astoria Grimaldi|Stori]] jumped after them and plunged her sword into his back as she landed atop it, killing him.
+
+Seeing [[Captain Barthas Redmane|Redmane]] die, one of the Erinys cocked her head back and forth like a chicken receiving a radio transmission. Seeming to communicate that their contract was up, the surviving Erinys disappeared.

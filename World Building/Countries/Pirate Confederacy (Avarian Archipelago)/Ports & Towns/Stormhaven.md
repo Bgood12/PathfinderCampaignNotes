@@ -1,6 +1,6 @@
 Settlement Level: 12
 Population: 49246
-Ruler: [[Declan "Wavebreaker" Thorne]]
+Ruler: [[Pirate King - Vorgash Thrask]]
 
 Stormhaven is the largest and most notorious port in the Pirate Confederacy. Its reputation as a haven for rogues, scoundrels, and freebooters is well-earned, but it’s also a city of opportunity, where merchants and adventurers can find riches and danger in equal measure. Despite its chaotic nature, Stormhaven is surprisingly organized, with unwritten rules and traditions that keep its myriad factions from turning the streets into a constant battlefield.
 As it's largest city Stormhaven is the defacto capitol of the [[Pirate Confederacy]].

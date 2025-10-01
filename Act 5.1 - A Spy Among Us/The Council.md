@@ -30,7 +30,7 @@ Topic: Use of the [[Balaika|Balaikan]] tithe for public works.
 Summary: Build a large gilded statue of [[Pirate King - Vorgash Thrask|Vorgash Thrask]] in the confederacy's major ports. The statues will dispense a stream of rum from their mouths.
 Sponsor: Marven "Silkbeard" Jasto
 Champion: Marven "Silkbeard" Jasto
-Opposition: [[The Windrider]]
+Opposition: [[World Building/Countries/Pirate Confederacy (Avarian Archipelago)/NPCs/The Windrider]]
 Initial Vote Count: 8 Yay/ 1 Nay
 DC: 29/34
 Opening Argument ("Silkbeard" Jasto):

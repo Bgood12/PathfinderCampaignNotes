@@ -1,0 +1,5 @@
+- Narrow city streets
+	- Outside of cities (and sometimes within) infrastructure falls into disrepair
+- Cloaked figures - clandestine, meetings in wine houses
+- Wine houses and similar establishments have spaced out seating with heavy dividing curtains and walls to provide privacy
+- The Jibblets are 'exotic' and watched

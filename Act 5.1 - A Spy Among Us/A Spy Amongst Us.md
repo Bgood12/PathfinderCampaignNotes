@@ -24,7 +24,7 @@ This hut belongs to Izreer a dwarven 'smuggler'. Izreer can be found here, dead 
 	- [[Veriduna|Veridunan]] sheet music with coded orders
 		- DC25 society to decipher if codebreaker speaks diabolic
 		- DC20 if someone performs the song as well
-The coded sheet music has instructions to monitor ships in the harbor and report to Ilinda Matai at her tavern in [[Bloodwake Harbor]] (See 5). Especially regarding the movements of ships belonging to [[The Windrider]] and [[Theodora 'Thea' Varko|Thea Varko]].
+The coded sheet music has instructions to monitor ships in the harbor and report to Ilinda Matai at her tavern in [[Bloodwake Harbor]] (See 5). Especially regarding the movements of ships belonging to [[World Building/Countries/Pirate Confederacy (Avarian Archipelago)/NPCs/The Windrider]] and [[Theodora 'Thea' Varko|Thea Varko]].
 
 **4. The Devil's Due**
 The Devil's Due is a small one room sloop. The interior is plastered with ichor and a small bug-like devil lies amidst the mess (Zebub). Having survived her assassination attempt Elois booked passage on the swiftest trading vessel that she could find.

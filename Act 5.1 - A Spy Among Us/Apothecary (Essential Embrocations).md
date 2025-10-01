@@ -81,9 +81,9 @@ There's a large bed, a desk, a vanity, and a ward robe for furniture in this roo
 	- There's an emergency fund of 5pp and 10 gp hidden in the desk which Vedia will snatch before leaving
 	- Desk Loot
 		- 4x vials of Ghost Ink (lvl 1): https://2e.aonprd.com/Equipment.aspx?ID=3354
-		- Papers revealing a vast spy ring in the isles (encoded) as well as assassination orders for some key players
+		- Papers revealing a spy ring in the isles (encoded) as well as assassination orders for some key players
 		- In a watertight scroll case that can survive fire
-			- In diabolic: "Plans will go into effect once our agent finishes preparations. Destroy evidence. Report to [[Velgrana]] for next assignment"
+			- In diabolic: "Plans will go into effect once our agent finishes preparations. Destroy evidence. Liquidate assets. Report to [[Velgrana]] for next assignment"
 
 **Vedia**
 *Use Meticulous Chemist Statblock*

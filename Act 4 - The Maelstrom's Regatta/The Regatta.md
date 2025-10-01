@@ -10,7 +10,7 @@ Mechanics:
 	- Roll 3 times for into the storm
 
 **Race Start**
-[[The Windrider]] give his opening spiel #TODO then starts the race by calling a lightning bolt from the sky to signal the race start. He then transmogrifies into a bird of prey and takes off ahead of the ships.
+[[World Building/Countries/Pirate Confederacy (Avarian Archipelago)/NPCs/The Windrider]] give his opening spiel #TODO then starts the race by calling a lightning bolt from the sky to signal the race start. He then transmogrifies into a bird of prey and takes off ahead of the ships.
 *GM Note*: Inform [[Yllavyre Enallyna|Ylla]] that this is their brother
 
 A sharp wind picks up and begins pushing the milling ships around as they raise anchor (DC25 Sailing Lore, +2DC for other reasonable skills).
@@ -79,4 +79,4 @@ Elite Living Whirlwind statblock: https://2e.aonprd.com/Monsters.aspx?ID=2974&El
 
 
 **Finish Line**
-If the Jibblets win [[The Windrider]] grants them a pin of broken manacles signifying their vote on the pirate council. They are also awarded with the regatta's pot 800gp (50gp buy in * 16 ships).
+If the Jibblets win [[World Building/Countries/Pirate Confederacy (Avarian Archipelago)/NPCs/The Windrider]] grants them a pin of broken manacles signifying their vote on the pirate council. They are also awarded with the regatta's pot 800gp (50gp buy in * 16 ships).
