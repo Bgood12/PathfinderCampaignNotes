@@ -15,3 +15,7 @@ Auravell primary trades domestically with the rest of [[Veriduna]] via the Black
 ### Population
 Auravell is primarily comprised of humans though halflings and tieflings both make up respectable minorities. Some dwarvish and orcish clans dwell among the [[Blackstone Peaks]]. Meanwhile, Auravell's woodlands house small groups of many disparate peoples. 
 Several anti-slavery groups have operations in Auravell working to move slaves out of [[Veriduna]].
+
+
+### Updates
+[[Session 50 - Epilogue]] - Following [[Drusilla Kasa|Drusilla Kasa's]] failed plot to capture the [[Pirate Confederacy]] for [[Veriduna]] ([[Session 44 - Unrest in the Free Isles]]); the [[Principality of Auravell]] launched an independence war.

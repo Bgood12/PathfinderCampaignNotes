@@ -10,3 +10,9 @@ The Confederacy is a melting pot of seafarers, from seasoned buccaneers to refor
 
 ### History
 In a bid to retain its independence the former colony of [[Balaika]] made a deal with [[The First Pirate King]]. The deal was a long term tributary agreement where the confederacy would defend [[Balaika]] by sea. The deal allowed [[The First Pirate King]] to exert an amount of influence and control over the new confederacy. The tribute has allowed the various pirate kings since to hold some degree of cohesion among the confederacies isles.
+
+
+### Updates
+[[Session 38 - On the Sea Again]]: Thea lies to the Jibblets about informing [[Pirate King - Vorgash Thrask|Vorgash Thrask]] about the [[Veriduna|Veridunan]] plot on the isles.
+
+[[Session 46 - The New Pirate King]] - The Jibblets kill [[Pirate King - Vorgash Thrask]] and [[Eden Lockton]] is installed as the new pirate king. She selects [[Theodora 'Thea' Varko]] to serve as her 'first mate'.

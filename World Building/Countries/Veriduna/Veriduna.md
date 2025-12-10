@@ -27,3 +27,7 @@ Veriduna's military stands as a formidable force, boasting a combination of huma
 
 #### Naming Conventions
 Fascist Fantasy Iberia names tend to be very 'latin-esque' or Roman with some modern Italian names in the mix for variety.
+
+
+### Updates
+[[Session 50 - Epilogue]] - Following [[Drusilla Kasa|Drusilla Kasa's]] failed plot to capture the [[Pirate Confederacy]] for [[Veriduna]] ([[Session 44 - Unrest in the Free Isles]]); the [[Principality of Auravell]] launched an independence war.

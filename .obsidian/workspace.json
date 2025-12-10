@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c7e773002b6ca7",
+        "id": "44de3496c8370ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "54518fe56b9804f5",
+            "id": "d36b2a6f0fb24865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/Members/Archmagus Seraphine Deymaris.md",
+                "file": "World Building/Countries/Marzeno.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archmagus Seraphine Deymaris"
+              "title": "Marzeno"
             }
           },
           {
-            "id": "8fd3c8d8f01829b2",
+            "id": "39cbf99e31bc6a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/Members/Jade.md",
+                "file": "World Building/Countries/Luminara/Organizations/The Radiant Synod.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jade"
+              "title": "The Radiant Synod"
             }
           },
           {
-            "id": "e44c6b0b29aabacf",
+            "id": "f9c5d3abf39a88fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cast/Eden Lockton.md",
+                "file": "World Building/Countries/Luminara/Luminara.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eden Lockton"
+              "title": "Luminara"
             }
           },
           {
-            "id": "f4b9ab5f1cc4a938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 9 - Denouement/The Queen's Brother/Circle of the Sapphire Flame.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Circle of the Sapphire Flame"
-            }
-          },
-          {
-            "id": "7ae665776b390c35",
+            "id": "fb9892b300fbf2b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,129 +102,9 @@
               "icon": "lucide-file",
               "title": "Kardathos"
             }
-          },
-          {
-            "id": "df0b2f9b0e3e12fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 9 - Denouement/The Queen's Brother/The Ailing Ruler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Ailing Ruler"
-            }
-          },
-          {
-            "id": "5c9c1ff90ab0c3e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 9 - Denouement/The Queen's Brother/The Queen's Brother.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Queen's Brother"
-            }
-          },
-          {
-            "id": "7274fbbc1c743faa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Kardathos/Important NPCs/Prince Osric Wystan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prince Osric Wystan"
-            }
-          },
-          {
-            "id": "b0db30b894d94052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Countries/Kardathos/Important NPCs/Queen Meira Wystan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Queen Meira Wystan"
-            }
-          },
-          {
-            "id": "a2cba3d0691f7d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 9 - Denouement/Kardathian Vibes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kardathian Vibes"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Jib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -402,44 +258,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c9c1ff90ab0c3e7",
+  "active": "f9c5d3abf39a88fc",
   "lastOpenFiles": [
-    "Act 9 - Denouement/The Queen's Brother/The Ailing Ruler.md",
-    "Act 9 - Denouement/The Queen's Brother/Circle of the Sapphire Flame.md",
-    "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/Members/Archmagus Seraphine Deymaris.md",
-    "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/Members/Jade.md",
-    "Cast/Eden Lockton.md",
-    "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/The Circle of The Sapphire Flame.md",
+    "World Building/Countries/Luminara/Organizations/The Radiant Synod.md",
+    "World Building/Countries/Luminara/Luminara.md",
+    "World Building/Countries/Luminara/Organizations",
+    "World Building/Countries/Luminara",
+    "World Building/Countries/Kardathos/Kardathos.md",
+    "World Building/Countries/Zelvahar.md",
+    "World Building/Countries/Marzeno.md",
+    "World Building/Countries/Kagedomari.md",
+    "World Building/Countries/Jarnheim.md",
+    "World Building/Countries/Balaika.md",
+    "World Building/Countries/Principality of Auravell.md",
+    "World Building/Countries/Veriduna/Veriduna.md",
+    "Session Reports/Session 44 - Unrest in the Free Isles.md",
+    "Session Reports/Session 43 - Boarding the Flagship.md",
+    "World Building/Countries/Pirate Confederacy (Avarian Archipelago)/Pirate Confederacy.md",
+    "Session Reports/Session 46 - The New Pirate King.md",
+    "Session Reports/Session 38 - On the Sea Again.md",
+    "Session Reports/Session 45 - Pirate Coup.md",
+    "World Building/Countries/Serikara/Serikara.md",
+    "World Building/Countries/Serikara/Kharakhai.md",
+    "World Building/Countries/Serikara/Qalithar/Sultanate of Qalithar.md",
+    "World Building/Countries/Sirocco Territories.md",
+    "World Building/Countries/Ezkardia.md",
+    "World Building/Countries/Illurum.md",
+    "Act 1 - Talking to Coconuts/Other NPCs/Jib.md",
+    "Cast/Leaklen NPCs/Joseph (Sephy) Harlow.md",
+    "Session Reports/Session 49 - Stitching the World's Wound.md",
+    "Session Reports/Session 50 - Epilogue.md",
+    "Act 10 - Epilogue",
     "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame/Members",
     "World Building/Countries/Kardathos/Organizations/The Circle of The Sapphire Flame",
     "World Building/Countries/Kardathos/Organizations",
-    "World Building/Countries/Kardathos/Kardathos.md",
-    "Act 9 - Denouement/Ecological Breakdown.md",
-    "Act 9 - Denouement/Oh Brother.md",
-    "Act 9 - Denouement/Eden's Parents.md",
-    "Session Reports/Session 48 - Reunions.md",
-    "Act 9 - Denouement/The Queen's Brother/The Queen's Brother.md",
-    "World Building/Countries/Kardathos/Important NPCs/Prince Osric Wystan.md",
-    "Session Reports/Session 47 - High Water.md",
-    "World Building/Countries/Kardathos/Important NPCs/Queen Meira Wystan.md",
-    "Act 9 - Denouement/Closing the Portal.md",
-    "Act 9 - Denouement/Kardathian Vibes.md",
-    "Act 1 - Talking to Coconuts/Locations/Treasure Pit.md",
-    "Act 5.4 On Lockton/The Slow Burn.md",
-    "Cast/Leaklen NPCs/Louis Plateau.md",
-    "Cast/Leaklen NPCs/Mary Plateau.md",
     "World Building/Countries/Kardathos/Important NPCs",
     "World Building/Countries/Kardathos",
     "Act 9 - Denouement/The Queen's Brother",
-    "World Building/Countries/Zelvahar.md",
-    "Act 9 - Denouement/Enter the Maelstrom.md",
-    "Act 9 - Denouement/Leaklen's Cure.md",
-    "Session Reports/Session 46 - The New Pirate King.md",
-    "Cast/Astoria Grimaldi.md",
     "Act 8 - The New Pirate King",
-    "Act 9 - Denouement",
-    "Act 7 - In Defense of the Pirate Isles/Veridunan Interception",
-    "Act 7 - In Defense of the Pirate Isles/Fleet Homebrew",
     "Maps/CannibalIsland.png",
     "Maps/ZirnitranOutpost.jpg",
     "Maps/CavesOfTheMother.jpg",

@@ -1,0 +1,8 @@
+A little over a year has passed since the Maelstrom's closing. And some of you have since gone your separate ways. Initially it seemed that [[Veriduna]] would seek vengeance over the death of a member of their royal family, however they quickly got distracted by an independence movement in the [[Principality of Auravell]], perhaps inspired by [[Veriduna|Veriduna's]] recent embarrassment at the hands of some pirates. With [[The Maelstrom]] gone southerly sea lanes open, causing more trade and colonial spirit to flow down the coast line. The former a boon for the prosperity of the Free Isles. Despite the natural defense provided by [[The Maelstrom]] now being absent no other empires have overtly increased pressure on the free isles, likely wary of sharing the fate of [[Veriduna|Veriduna's]] prior attempt.
+
+With [[The Maelstrom|The Maelstrom's]] passing the climate has also shifted. The outskirts of the nearby [[Zelvahar|Zelvaharan]] rainforest are already starting to recede into a savannah. Its rivers are losing volume, and its floodplains are stabilizing - granting potential for new farming opportunities. Species evolved to require the near permanent rainfall provided by [[The Maelstrom]] (ferns, mangroves, etc) have been rapidly dying throughout the region. While the floodplain farming has encouraged larger settlements.
+
+The shifts to the jet stream and ocean currents caused by [[The Maelstrom|The Maelstrom's]] sudden disappearance have caused sporadic flood and drought events across much of the known world. Some deserts have seen heavy rainfall for the first time in centuries. Strange weather is reported most everywhere.
+
+
+You receive messages directly into your brain from [[Eden Lockton|Eden]] inviting you to a reunion __place__. 

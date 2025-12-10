@@ -1,6 +1,6 @@
 Guild Master: [[Archmagus Seraphine Deymaris]]
 
-Members: Jade
+Members: [[Jade]]
 
 #### History
 The Circle of the Sapphire Flame is one of the oldest magical institutions in [[Kardathos]]. Its origins stretch nearly four centuries - created by a group of arcanists to preserve magical knowledge from newly conquered nations. 

@@ -14,6 +14,10 @@ A handful of times throughout the year the prevailing wind shifts and blows in o
 
 ## Military
 #TODO
+- Small, mobile forces good at desert warfare
+- Heavy use of firearms obviously
+- Probably control the oases and can starve out resistance
+- Coastal presence to protect the harbors
 
 ## Inhabitants
 Sirocco sees little permanent migration as a result of its harsh conditions. The region's largest demographics are dwarvish and human. Several dwarven clans are scattered throughout the region's hills and mountains as well as underground. Humans are more scattered but are most often found in the coastal cities or around the region's many oases. Gnomes and halflings make up a noteworthy minority in the region, most of them can be found in the coastal cities.
